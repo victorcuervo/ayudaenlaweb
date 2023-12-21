@@ -120,6 +120,8 @@ author: victor_cuervo
 		const mdblocks = await n2m.pageToMarkdown(id);
         const md = n2m.toMarkdownString(mdblocks);
 
+		console.log(md)
+
         // ensure directory exists
 	    const root = path.join('_posts', nav)
 	    fs.mkdirSync(root, { recursive: true })
