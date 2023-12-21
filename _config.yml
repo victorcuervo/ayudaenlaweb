@@ -20,7 +20,7 @@ locale: es-ES
 title: "Ayuda en la Web"
 description: "Desde lo sencillo, hasta lo avanzado"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://www.ayudaenlaweb.com
+url: https://ayw.aulambra.com
 logo: /images/site-logo.png
 date_format: "%-d %B %Y"
 read_time: true
