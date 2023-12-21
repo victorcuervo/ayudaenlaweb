@@ -10,6 +10,10 @@ image:
   thumbnail: /images/covers/navegador.jpeg
   caption: Fotografía de [freepik](hhttps://www.freepik.es/autor/freepik)
 ---
+
+La cantidad de webs, aplicaciones y funcionalidades que nos ofrece la web es enorme. Desde Ayuda en la Web
+
+
 La época de Internet ha permitido un gran crecimiento en el número de aplicaciones que tenemos disponibles. Ayuda en la Web quiere ayudarte con las aplicaciones.
 
 Cada día aparecen nuevas aplicaciones en diferentes ámbitos, ya sean redes sociales, para gestionar música o vídeos, herramientas para la gestión del tiempo, suites ofimáticas,…
