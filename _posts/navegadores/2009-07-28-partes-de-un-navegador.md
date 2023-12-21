@@ -35,7 +35,7 @@ _(Pulsa sobre la imagen para verlo en grande)_
 ### Barra de título
 
 
-En esta barra se mostrará el título de la página. Es decir, lo que la página tenga como contenido dentro de la etiqueta [<TITLE>](http://w3api.com/wiki/HTML:TITLE). También suele cargar el [icono](http://lineadecodigo.com/html/icono-en-la-barra-de-navegacion/) (o favicon) asociado a la página.
+En esta barra se mostrará el título de la página. Es decir, lo que la página tenga como contenido dentro del elemento [`title`](https://w3api.com/HTML/title/). También suele cargar el [icono](https://lineadecodigo.com/html/icono-en-la-barra-de-navegacion/) (o favicon) asociado a la página.
 
 
 ### Menús
