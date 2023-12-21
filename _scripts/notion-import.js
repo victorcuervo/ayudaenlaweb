@@ -12,15 +12,7 @@ const notion = new Client({
 });
 
 // passing notion client to the option
-//const n2m = new NotionToMarkdown({ notionClient: notion });
-
-
-const n2m = new NotionToMarkdown({ 
-	notionClient: notion,
-	  config:{
-	   separateChildPage:true, // default: false
-	}
-   });
+const n2m = new NotionToMarkdown({ notionClient: notion });
 
 (async () => {
 
