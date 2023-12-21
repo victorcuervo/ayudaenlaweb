@@ -32,10 +32,10 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 google_analytics: G-7FZP8EQZG9 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-disqus:
-  shortname: arquitectoit
+#disqus:
+#  shortname: arquitectoit
 twitter:
-  username: arquitectoit
+  username: ayudaenlaweb
 
 # Liquid
 liquid:
@@ -132,13 +132,13 @@ author:
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/arquitectoit
+    url: https://twitter.com/ayudaenlaweb
     icon: fab fa-twitter-square
   - title: Facebook
-    url: https://www.facebook.com/ArquitectoIT/
+    url: https://www.facebook.com/AyudaenlaWeb/
     icon: fab fa-facebook
   - title: Github
-    url: https://github.com/arquitectoit
+    url: https://github.com/victorcuervo
     icon: fab fa-github      
   - title: Feed
     url: atom.xml
