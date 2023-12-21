@@ -20,5 +20,5 @@ RewriteRule ^(.*)$ https://arquitectoit.com/$1 [R=301,QSA,L]
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RedirectMatch 301 /microblogging/twitter/que-es-el-timeline-de-twitter/ /redes-sociales/qxue-es-el-timeline-de-twitter/
+RedirectMatch 301 /microblogging/twitter/que-es-el-timeline-de-twitter/ /redes-sociales/que-es-el-timeline-de-twitter/
 </IfModule>
