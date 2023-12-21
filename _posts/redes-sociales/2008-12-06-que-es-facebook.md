@@ -13,9 +13,6 @@ share: true
 author: victor_cuervo
 ---
 
-Bla Bla
-
-
 [Facebook](http://www.facebook.com/) es una [red social](http://www.ayudaenlaweb.com/2008/12/03/que-es-una-red-social/) dónde podemos ponernos en contacto con nuestros amigos. Intercambiar mensajes, fotos, vídeos, avisarnos de eventos, crear grupos,...
 
 
