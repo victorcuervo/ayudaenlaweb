@@ -3,6 +3,7 @@ const { NotionToMarkdown } = require("notion-to-md");
 const moment = require('moment');
 const path = require('path');
 const fs = require('fs');
+
 // or
 // import {NotionToMarkdown} from "notion-to-md";
 
@@ -120,30 +121,7 @@ author: victor_cuervo
 		const mdblocks = await n2m.pageToMarkdown(id);
         const md = n2m.toMarkdownString(mdblocks);
 
-		console.log(md)
-
-		/*
-        // ensure directory exists
-	    const root = '_' + nav
-	    fs.mkdirSync(root, { recursive: true })
-
-		//writing to file
-		// posts should have date previous slug
-
-		let ftitle = '';
-		if (nav == 'posts')
-			ftitle = date + '-';
-
-		ftitle = ftitle + `${slug}.md`
-
-
-		fs.writeFile(path.join(root, ftitle), fm + md, (err) => {
-			if (err) {
-				console.log(err);
-			}
-		});
-
-		*/
+		console.log(md.parent)
 
         // ensure directory exists
 	    const root = path.join('_posts', nav)
@@ -151,7 +129,7 @@ author: victor_cuervo
 
 		//writing to file
 		const ftitle = `${date}-${slug}.md`
-		fs.writeFile(path.join(root, ftitle), fm + md, (err) => {
+		fs.writeFile(path.join(root, ftitle), fm + md.parent, (err) => {
 			if (err) {
 				console.log(err);
 			}
