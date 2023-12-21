@@ -1,9 +1,9 @@
 ---
 layout: category
-taxonomy: navegadores
+taxonomy: Navegadores
 entries_layout: grid
 title: Navegadores
-excerpt: "Artículos relativos al servidor Apache y cómo poder sacarle el máximo partido a sus configuraciones para tener un servidor web optimizado"
+excerpt: "Los navegadores son aplicaciones de software que nos permiten visualizar las páginas web y navegar por ellas."
 image:
   path: /images/covers/navegador.webp
   thumbnail: /images/covers/navegador.webp
