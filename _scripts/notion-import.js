@@ -102,7 +102,7 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 		}		
 
         
-const fm = `---
+let fm = `---
 layout: post
 title: ${title}
 excerpt: ${excerpt}
@@ -121,6 +121,29 @@ author: victor_cuervo
         const md = n2m.toMarkdownString(mdblocks);
 
 		console.log(md)
+
+		/*
+        // ensure directory exists
+	    const root = '_' + nav
+	    fs.mkdirSync(root, { recursive: true })
+
+		//writing to file
+		// posts should have date previous slug
+
+		let ftitle = '';
+		if (nav == 'posts')
+			ftitle = date + '-';
+
+		ftitle = ftitle + `${slug}.md`
+
+
+		fs.writeFile(path.join(root, ftitle), fm + md, (err) => {
+			if (err) {
+				console.log(err);
+			}
+		});
+
+		*/
 
         // ensure directory exists
 	    const root = path.join('_posts', nav)
