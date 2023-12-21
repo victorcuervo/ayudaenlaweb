@@ -70,6 +70,8 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
        let cat = ''
        let pcats = r.properties?.['Category']?.['multi_select']
        cat = pcats[0]?.['name']
+	   // Quitamos espacios en blanco
+	   cat = cat.replace(" ","-");
 
        let nav = cat.toLowerCase();
 
@@ -117,7 +119,7 @@ author: victor_cuervo
 `
 		const mdblocks = await n2m.pageToMarkdown(id);
         const md = n2m.toMarkdownString(mdblocks);
-        
+
         // ensure directory exists
 	    const root = path.join('_posts', nav)
 	    fs.mkdirSync(root, { recursive: true })
