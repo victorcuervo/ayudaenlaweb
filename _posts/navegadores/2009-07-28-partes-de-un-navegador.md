@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Partes de un navegador
-excerpt: b83dc943-9f20-4bc4-8945-d667ff402756
+excerpt: Las partes de un navegador son la barra de título, los menús, la barra de herramientas, pestañas, barra de menú, área de trabajo y barra de estado.
 categories: Navegadores
 tags: []
 image:
