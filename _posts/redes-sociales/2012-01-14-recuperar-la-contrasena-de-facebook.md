@@ -5,8 +5,8 @@ excerpt: Pasos para poder recuperar la contraseña de Facebook si la hemos olvid
 categories: Redes-Sociales
 tags: [facebook,url]
 image:
-  path: /images/cover/facebook.webp
-  thumbnail: /images/cover/facebook.webp
+  path: /images/covers/facebook.webp
+  thumbnail: /images/covers/facebook.webp
   caption: Fotografía de [natanaelginting](https://www.freepik.es/autor/natanaelginting)
 comments: true
 share: true

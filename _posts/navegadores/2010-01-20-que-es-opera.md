@@ -5,8 +5,8 @@ excerpt: Opera es un navegador web de la empresa Opera Software que nos permite 
 categories: Navegadores
 tags: [opera]
 image:
-  path: /images/cover/opera.webp
-  thumbnail: /images/cover/opera.webp
+  path: /images/covers/opera.webp
+  thumbnail: /images/covers/opera.webp
   caption: Fotografía de [Freepik](https://www.freepik.es/autor/freepik)
 comments: true
 share: true

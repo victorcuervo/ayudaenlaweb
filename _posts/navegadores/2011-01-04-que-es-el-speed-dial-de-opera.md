@@ -5,8 +5,8 @@ excerpt: El Seed Dial de Opera es una funcionalidad que nos permite aglutinar en
 categories: Navegadores
 tags: [opera]
 image:
-  path: /images/cover/opera.webp
-  thumbnail: /images/cover/opera.webp
+  path: /images/covers/opera.webp
+  thumbnail: /images/covers/opera.webp
   caption: Fotografía de [Freepik](https://www.freepik.es/autor/freepik)
 comments: true
 share: true
