@@ -1,0 +1,16 @@
+# Footer navigation links
+
+- title: Acerca de
+  url: /acerca-de/
+
+- title: Autores
+  url: /autores/
+
+- title: Contactar
+  url: /contactar/
+
+- title: Categorias
+  url: /categorias/
+
+- title: Buscar
+  url: /search/

@@ -1,0 +1,18 @@
+# Gestión de Errores
+ErrorDocument 404 /404.html
+
+# Allow access from all domains for webfonts.
+# Alternatively you could only whitelist your
+# subdomains like "subdomain.example.com".
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|ttc|otf|eot|woff|font.css|css)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
+
+RewriteEngine On
+ErrorDocument 404 /404.html
+
+# Quitar el www del nombre de dominio  
+RewriteCond %{HTTP_HOST} ^www\.arquitectoit\.com$ [NC]  
+RewriteRule ^(.*)$ https://arquitectoit.com/$1 [R=301,QSA,L]

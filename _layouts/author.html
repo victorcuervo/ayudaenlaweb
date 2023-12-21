@@ -1,0 +1,44 @@
+---
+layout: page
+---
+
+{% assign author = site.data.authors[page.author] %}
+
+{%- if author.picture -%}
+{%- if author.picture contains "://" -%}
+  {%- assign author_picture = author.picture -%}
+{%- else -%}
+  {%- assign author_picture = author.picture | relative_url -%}
+{%- endif -%}
+<img src="{{ author_picture }}" class="author-avatar u-photo align-left" alt="{{ author.name }}">
+{%- endif -%}
+
+
+<p>
+  {{ author.bio }}
+</p>
+
+{%- if author.links -%}
+<ul class="author-links">
+  {%- for link in author.links -%}
+    {%- if link.url contains "://" -%}
+      {%- assign url = link.url -%}
+    {%- else -%}
+      {%- assign url = link.url | relative_url -%}
+    {%- endif -%}
+    <li class="author-link">
+      <a class="u-url" rel="me" href="{{ url }}"><i class="{{ link.icon | default : 'fas fa-link' }} fa-lg" title="{{ link.title }}"></i></a>
+    </li>
+  {%- endfor -%}
+</ul>
+{%- endif -%}
+
+<div style="clear:both;"></div>
+
+{{ content }}
+
+<h1 class="entry-title p-name">Artículos de {{ author.name }}</h1>
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {% include posts-author.html author=page.author %}
+</div>
