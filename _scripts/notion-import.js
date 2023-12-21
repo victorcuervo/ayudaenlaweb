@@ -12,7 +12,15 @@ const notion = new Client({
 });
 
 // passing notion client to the option
-const n2m = new NotionToMarkdown({ notionClient: notion });
+//const n2m = new NotionToMarkdown({ notionClient: notion });
+
+
+const n2m = new NotionToMarkdown({ 
+	notionClient: notion,
+	  config:{
+	   separateChildPage:true, // default: false
+	}
+   });
 
 (async () => {
 
@@ -121,7 +129,7 @@ author: victor_cuervo
 		const mdblocks = await n2m.pageToMarkdown(id);
         const md = n2m.toMarkdownString(mdblocks);
 
-		console.log(md.parent)
+		console.log(md)
 
         // ensure directory exists
 	    const root = path.join('_posts', nav)
