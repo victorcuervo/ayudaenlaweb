@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es Google Chrome?
-excerpt: Qué es Google Chrome
+excerpt: Google Chrome es el navegador web de Google que nace del proyecto Chromium que nos permite navegar por la web.
 categories: Navegadores
 tags: [google]
 image:
