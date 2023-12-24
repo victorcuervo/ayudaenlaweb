@@ -29,7 +29,7 @@ De esta forma ya nunca más podrás decir que no envías tweets en Twitter, o re
 <hr style="border: 1px solid;">
 
 # Editorial
-{% assign editorial = site.categories['editorial'][0] %}
+{% assign editorial = site.categories['Editorial'][0] %}
 
 <article class="editorial">
   <header class="editorial-header">
