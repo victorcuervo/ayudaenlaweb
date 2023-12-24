@@ -5,8 +5,8 @@ excerpt: Artículo que explica en detalle las partes de una URL, que son protoco
 categories: Internet-Basico
 tags: [protocolo,servidor,puerto,url]
 image:
-  path: /images/covers/navegadors.webp
-  thumbnail: /images/covers/navegadors.webp
+  path: /images/covers/navegador.webp
+  thumbnail: /images/covers/navegador.webp
   caption: Fotografía de [Freepik](https://www.freepik.es/autor/freepik)
 comments: true
 share: true
