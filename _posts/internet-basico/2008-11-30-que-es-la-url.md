@@ -5,9 +5,9 @@ excerpt: Explicación de qué es la URL o el Unified Resource Locator que insert
 categories: Internet-Basico
 tags: [url]
 image:
-  path: /images/covers/internet-basico.webp
-  thumbnail: /images/covers/internet-basico.webp
-  caption: Fotografía de [Rawpixel](https://www.freepik.es/autor/rawpixel-com)
+  path: /images/covers/navegador.webp
+  thumbnail: /images/covers/navegador.webp
+  caption: Fotografía de [Freepik](https://www.freepik.es/autor/freepik)
 comments: true
 share: true
 author: victor_cuervo
