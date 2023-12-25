@@ -3,7 +3,7 @@ layout: category
 taxonomy: Correo-Electronico
 entries_layout: grid
 title: Correo Electrónico
-excerpt: "Artículos relativos al servidor Apache y cómo poder sacarle el máximo partido a sus configuraciones para tener un servidor web optimizado"
+excerpt: "El correo electrónico es un canal que nos permite comunicar a los usuarios mediante mensajes de forma asíncrona."
 image:
   path: /images/covers/correo-electronico.webp
   thumbnail: /images/covers/correo-electronico.webp

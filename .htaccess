@@ -26,6 +26,73 @@ RedirectMatch 301 /musica/spotify/buscar-una-playlist-spotify/ /musica/buscar-un
 RedirectMatch 301 /categoria/redes-sociales/facebook/ /redes-sociales/
 
 
+/categoria/redes-sociales/
+/categoria/navegadores/google-chrome/
+/categoria/gestores-de-videos/
+/etiqueta/recuperar/
+/categoria/buscadores/google-buscadores/
+/categoria/correo-electronico/gmail/
+/categoria/internet-basico/
+/etiqueta/contrasena/
+/categoria/gestores-de-videos/youtube/
+/categoria/navegadores/
+/categoria/musica/spotify/
+/categoria/microblogging/twitter/
+/categoria/buscadores/
+/categoria/general/
+/categoria/videos/
+/categoria/mapas/
+/categoria/diseno-web/
+/categoria/documentos/
+/categoria/microblogging/
+/categoria/musica/
+/categoria/correo-electronico/
+/categoria/fotografia/flickr/
+/categoria/fotografia/picasa-web-albums/
+/categoria/blogs/
+/categoria/calendarios-y-tareas/
+/categoria/fotografia/
+/categoria/navegadores/safari-navegadores/
+/categoria/mensajeria-instantanea/
+/categoria/buscadores/bing/
+/categoria/gestores-de-videos/windows-media-player/
+/categoria/microblogging/twubs/
+/categoria/buscadores/yahoo-buscadores/
+/categoria/fotografia/fotolog/
+/categoria/mapas/google-maps-mapas/
+/etiqueta/nombre-usuario/
+/etiqueta/email/
+/etiqueta/telefono/
+/etiqueta/amigo/
+/etiqueta/omnibox/
+/etiqueta/facebook-privacidad/
+/etiqueta/internet-basico-url/
+/etiqueta/url/
+/etiqueta/area-de-trabajo/
+/etiqueta/facebook-grupos/
+/etiqueta/usuario/
+/etiqueta/actualizar/
+/etiqueta/barra-de-direcciones/
+/etiqueta/google-chrome-formularios/
+/etiqueta/facebook-album/
+/etiqueta/navegador/
+/etiqueta/barra-de-busqueda/
+/etiqueta/barra-de-herramientas/
+/etiqueta/barra-de-navegacion/
+/etiqueta/barra-de-titulo/
+/etiqueta/facebook-ubicacion/
+/etiqueta/fotografia/
+/etiqueta/videos/
+/etiqueta/facebook-compartir/
+/etiqueta/favoritos/
+/etiqueta/marcadores/
+/etiqueta/pagina-de-inicio/
+/etiqueta/pestanas/
+/etiqueta/speed-dial/
+/etiqueta/subir/
+/etiqueta/youtube-lista/
+
+/404.html
 
 RedirectMatch 301 /navegadores/abrir-enlace-en-una-pestana-con-google-chrome/attachment/control-click/ /navegadores/abrir-enlace-en-una-pestana-con-google-chrome/
 RedirectMatch 301 /navegadores/atajo-para-guardar-un-enlace-con-google-chrome/attachment/alt-click/ /navegadores/atajo-para-guardar-un-enlace-con-google-chrome/

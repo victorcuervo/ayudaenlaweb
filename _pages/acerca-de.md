@@ -9,12 +9,17 @@ image:
   caption: Fotografía de [freepik](hhttps://www.freepik.es/autor/freepik)
 ---
 
-Como Arquitectos IT que somos hemos podido comprobar que **un buen uso de la tecnología, un uso razonable y en un camino de equidad conlleva el poder realizar grandes proyectos de tecnología**. El Arquitecto IT, denostado a veces, glorificado las que menos, intenta dar una visión de la **estandarización, coherencia y buen uso de las tecnologías**. Para ello, el Arquitecto IT se basa en el uso de estándares, patrones, buenas prácticas, prueba nuevas tecnologías, intenta convencer en el avance tecnológico,…
+Internet es un ecosistema en el que cada día aparecen nuevas aplicaciones. La cantidad de webs, aplicaciones y funcionalidades que podemos encontrar en la red es enorme. Es por ello que desde **Ayuda en la Web** queremos ayudaros a conocer y poder utilizar de la mejor manera esas aplicaciones.
 
-En ArquitectoIT.com nos hemos juntado un grupo de Arquitectos IT que tienen ganas de **hablar sobre nuevas tecnologías**, de cómo estas nos pueden ayudar en el desarrollo de proyectos. **Arquitectos IT que quieren compartir sus experiencias y conocimientos**.
+Las nuevas aplicaciones viven en diferentes ámbitos, ya sean [redes sociales][rrss], herramientas de creación de contenido, plataformas de colaboración, aplicaciones para gestionar [música][musica], [vídeos][videos] o [fotografía][fotografia] herramientas para la gestión del tiempo, suites ofimáticas,… Estas aplicaciones las encontramos para todos los dispositivos ya sean en la web, móviles o tablets.
 
-Buscamos **la conversación, la crítica, el aprendizaje, el debate,...** pero siempre desde el lado positivo, desde el lado de la colaboración, del compañerismo, del aporte de soluciones por parte de la gente. Buscamos que, de forma ordenada, la gente exprese sus visiones, de a conocer sus puntos de vista sobre las cosas que aquí se escriben.
+Además la generalización de la adopción de la [Inteligencia Artificial][ia] hace que las aplicaciones nos proporcionen muchas más funcionalidades y que aparezcan múltiples aplicaciones que nos ayuden en el día a día.
 
-La meta. **Aprender de la arquitectura y tecnología**. Y, como no, pasar un buen rato entre amigos.
+De esta forma ya nunca más podrás decir que no sabes cómo funciona la última red social de moda, que no encuentras información sobre algún tema o que no sabes como utilizar la [Inteligencia Artificial][ia] en tu día a día.
 
-Solo nos queda deciros una cosa, **¡Aprendamos!**
+
+[rrss]: /redes-sociales/
+[musica]: /musica/
+[fotografia]: /fotografia/
+[videos]: /gestores-videos/
+[ia]: /inteligencia-artificial/

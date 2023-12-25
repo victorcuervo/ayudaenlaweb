@@ -3,7 +3,7 @@ layout: category
 taxonomy: Editorial
 entries_layout: grid
 title: Editorial
-excerpt: "Artículos relativos al servidor Apache y cómo poder sacarle el máximo partido a sus configuraciones para tener un servidor web optimizado"
+excerpt: "Artículos sobre un pensamiento general en la ayuda en la web con las aplicaciones que nacen y crecen en el ecosistema de Internet."
 image:
   path: /images/covers/editorial.webp
   thumbnail: /images/covers/editorial.webp

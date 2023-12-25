@@ -3,7 +3,7 @@ layout: category
 taxonomy: Navegadores
 entries_layout: grid
 title: Navegadores
-excerpt: "Los navegadores son aplicaciones de software que nos permiten visualizar las páginas web y navegar por ellas."
+excerpt: "Los navegadores son aplicaciones de software que nos permiten visualizar las páginas web y navegar por ellas. Son la base del contenido que hay en la web."
 image:
   path: /images/covers/browser.webp
   thumbnail: /images/covers/browser.webp

@@ -3,7 +3,7 @@ layout: category
 taxonomy: Fotografia
 entries_layout: grid
 title: Fotografía
-excerpt: "Artículos relativos al servidor Apache y cómo poder sacarle el máximo partido a sus configuraciones para tener un servidor web optimizado"
+excerpt: "Análisis de diferentes herramientas que nos sirven para poder editar, mejorar y catalogar nuestras fotografías, así como exponerlas mediante albumes."
 image:
   path: /images/covers/fotografia.webp
   thumbnail: /images/covers/fotografia.webp

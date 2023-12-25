@@ -3,7 +3,7 @@ layout: category
 taxonomy: Mapas
 entries_layout: grid
 title: Mapas
-excerpt: "Aplicaciones que nos permiten visualizar mapas y buscar cosas sobre ellos."
+excerpt: "Aplicaciones que nos permiten visualizar mapas, buscar cosas sobre ellos y trazar rutas entre dos puntos definidos en un mapa."
 image:
   path: /images/covers/mapas.webp
   thumbnail: /images/covers/mapas.webp

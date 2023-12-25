@@ -3,7 +3,7 @@ layout: category
 taxonomy: Redes-Sociales
 entries_layout: grid
 title: Redes Sociales
-excerpt: "Artículos relativos al servidor Apache y cómo poder sacarle el máximo partido a sus configuraciones para tener un servidor web optimizado"
+excerpt: "Las redes sociales son espacios de compartición de texto y contenido multimedia dentro de grupos de usuarios o de forma abierta a la red."
 image:
   path: /images/covers/social-media.webp
   thumbnail: /images/covers/social-media.webp
