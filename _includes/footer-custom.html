@@ -8,4 +8,14 @@
 	</ul>
 </div>
 
+<div id ="footerwebs" class="footerinfo">
+	
+	<ul>
+		<li><strong>Nuestras Webs</strong></li>
+{% for link in site.data.webs-navigation %}
+	<li><a href="{{ link.url }}">{{ link.title }}</a></li>
+{% endfor %}
+	</ul>
+</div>
+
 <!-- end custom footer snippets -->
