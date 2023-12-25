@@ -12,4 +12,4 @@ image:
   thumbnail: /images/covers/navegador.webp
   caption: Fotografía de [freepik](hhttps://www.freepik.es/autor/freepik)
 ---
-
+Las categorias que tiene **Ayuda en la Web** son:

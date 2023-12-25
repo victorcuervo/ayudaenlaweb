@@ -6,25 +6,20 @@ posts_limit: 9
 excerpt: "Análisis de tecnologías por Arquitectos IT"
 search: false
 image:
-  path: /images/portada.jpeg
-  thumbnail: /images/covers/navegador.jpeg
+  path: /images/portada.webp
+  thumbnail: /images/portada.webp
   caption: Fotografía de [freepik](hhttps://www.freepik.es/autor/freepik)
 ---
 
-La cantidad de webs, aplicaciones y funcionalidades que nos ofrece la web es enorme. Desde Ayuda en la Web
 
 
-La época de Internet ha permitido un gran crecimiento en el número de aplicaciones que tenemos disponibles. Ayuda en la Web quiere ayudarte con las aplicaciones.
+Internet es un ecosistema en el que cada día aparecen nuevas aplicaciones. La cantidad de webs, aplicaciones y funcionalidades que podemos encontrar en la red es enorme. Es por ello que desde **Ayuda en la Web** queremos ayudaros a conocer y poder utilizar de la mejor manera esas aplicaciones.
 
-Cada día aparecen nuevas aplicaciones en diferentes ámbitos, ya sean redes sociales, para gestionar música o vídeos, herramientas para la gestión del tiempo, suites ofimáticas,…
+Las nuevas aplicaciones viven en diferentes ámbitos, ya sean [redes sociales][rrss], herramientas de creación de contenido, plataformas de colaboración, aplicaciones para gestionar [música][musica], [vídeos][videos] o [fotografía][fotografia] herramientas para la gestión del tiempo, suites ofimáticas,… Estas aplicaciones las encontramos para todos los dispositivos ya sean en la web, móviles o tablets.
 
-Además con la incorporación de los múltiples dispositivos podemos contar con estas aplicaciones en móviles y tablets. Multiplicando, si aún cabe más, la oferta a la que podemos acceder.
+Además la generalización de la adopción de la [Inteligencia Artificial][ia] hace que las aplicaciones nos proporcionen muchas más funcionalidades y que aparezcan múltiples aplicaciones que nos ayuden en el día a día.
 
-Desde Ayuda en la Web intentamos explicarte de una forma sencilla para qué sirven las aplicaciones (ya sean web, para móvil o dispositivo tablet) más famosas y como podemos operar con ellas, explicando las acciones y conceptos básicos en estas aplicaciones. 
-
-De esta forma ya nunca más podrás decir que no envías tweets en Twitter, o resolver cómo ver las fotos de tus amigos en el Facebook o subir un vídeo a Youtube… es hora de empezar a aprender.
-
-
+De esta forma ya nunca más podrás decir que no sabes cómo funciona la última red social de moda, que no encuentras información sobre algún tema o que no sabes como utilizar la [Inteligencia Artificial][ia] en tu día a día.
 
 <hr style="border: 1px solid;">
 
@@ -33,8 +28,8 @@ De esta forma ya nunca más podrás decir que no envías tweets en Twitter, o re
 
 <article class="editorial">
   <header class="editorial-header">
-    <a href="{{ site.url }}{{ editorial.url }}">
-      <img src="{{ site.url }}{{ editorial.image.path }}" class="img-fluid">        
+    <a href="{{ editorial.url }}">
+      <img src="{{ editorial.image.path }}" class="img-fluid">        
       <h2>{{ editorial.title }} </h2>
     </a>
   </header>
@@ -47,3 +42,10 @@ De esta forma ya nunca más podrás decir que no envías tweets en Twitter, o re
 <hr style="border: 1px solid;">
 
 # Últimos Artículos
+
+
+[rrss]: /redes-sociales/
+[musica]: /musica/
+[fotografia]: /fotografia/
+[videos]: /gestores-videos/
+[ia]: /inteligencia-artificial/

@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Acerca de Arquitecto IT
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: Acerca de Ayuda en la Web
+excerpt: "Acerca de Ayuda en la Web nos cuenta cual es el objetivo y misión de esta página web en la ayuda con todas las personas que utilizan la red sus webs y aplicaciones."
 permalink: /acerca-de/
 image:
-  path: /images/portada.png
+  path: /images/portada.jpeg
+  thumbnail: /images/covers/navegador.jpeg
+  caption: Fotografía de [freepik](hhttps://www.freepik.es/autor/freepik)
 ---
 
 Como Arquitectos IT que somos hemos podido comprobar que **un buen uso de la tecnología, un uso razonable y en un camino de equidad conlleva el poder realizar grandes proyectos de tecnología**. El Arquitecto IT, denostado a veces, glorificado las que menos, intenta dar una visión de la **estandarización, coherencia y buen uso de las tecnologías**. Para ello, el Arquitecto IT se basa en el uso de estándares, patrones, buenas prácticas, prueba nuevas tecnologías, intenta convencer en el avance tecnológico,…

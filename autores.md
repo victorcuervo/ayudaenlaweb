@@ -12,3 +12,4 @@ image:
   thumbnail: /images/covers/navegador.jpeg
   caption: Fotografía de [freepik](hhttps://www.freepik.es/autor/freepik)
 ---
+Los autores que colaboran en Ayuda en la Web son:

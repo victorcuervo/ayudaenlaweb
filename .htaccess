@@ -21,4 +21,16 @@ RewriteRule ^(.*)$ https://arquitectoit.com/$1 [R=301,QSA,L]
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RedirectMatch 301 /microblogging/twitter/que-es-el-timeline-de-twitter/ /redes-sociales/que-es-el-timeline-de-twitter/
+RedirectMatch 301 /fotografia/fotolog/que-es-fotolog/ /fotografia/que-es-fotolog/
+RedirectMatch 301 /musica/spotify/buscar-una-playlist-spotify/ /musica/buscar-una-playlist-spotify/
+RedirectMatch 301 /categoria/redes-sociales/facebook/ /redes-sociales/
+
+
+
+RedirectMatch 301 /navegadores/abrir-enlace-en-una-pestana-con-google-chrome/attachment/control-click/ /navegadores/abrir-enlace-en-una-pestana-con-google-chrome/
+RedirectMatch 301 /navegadores/atajo-para-guardar-un-enlace-con-google-chrome/attachment/alt-click/ /navegadores/atajo-para-guardar-un-enlace-con-google-chrome/
+
+
+
+
 </IfModule>

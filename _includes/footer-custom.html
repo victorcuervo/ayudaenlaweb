@@ -3,7 +3,7 @@
 <div class="footerinfo">
 	<ul>
 {% for link in site.data.footer-navigation %}
-	<li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
+	<li><a href="{{ link.url }}">{{ link.title }}</a></li>
 {% endfor %}
 	</ul>
 </div>
