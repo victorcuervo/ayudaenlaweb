@@ -30,8 +30,14 @@ Así, ejemplos de URL serían:
 	[https://www.ayudaenlaweb.com/2008/11/30/que-es-un-navegador/](https://www.ayudaenlaweb.com/2008/11/30/que-es-un-navegador/)
 
 - _**Imagen**_
+
+	[http://www.altamiraweb.net/images/fotografia.jpg](http://www.altamiraweb.net/images/fotografia.jpg)
+
 - _**Fichero ZIP**_
 
 	[http://lineadecodigo.com/wp-content/uploads/2007/10/copiardosarraysenuno.zip](http://lineadecodigo.com/wp-content/uploads/2007/10/copiardosarraysenuno.zip)
 
 - _**Fichero de sonido**_
+
+	[http://www.soundfoundation.co.uk/mp3/August%20-%20Cherry%20Red.mp3](http://www.soundfoundation.co.uk/mp3/August%20-%20Cherry%20Red.mp3)
+
