@@ -20,10 +20,85 @@ RewriteRule ^(.*)$ https://arquitectoit.com/$1 [R=301,QSA,L]
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
+
+# Categorias
+RedirectMatch 301 /categoria/redes-sociales/facebook/ /redes-sociales/
+RedirectMatch 301 /categoria/redes-sociales/ /redes-sociales/
+RedirectMatch 301 /categoria/navegadores/google-chrome/ /navegadores/
+RedirectMatch 301 /categoria/gestores-de-videos/ /gestores-videos/
+# RedirectMatch 301 /categoria/buscadores/google-buscadores/
+RedirectMatch 301 /categoria/correo-electronico/gmail/ /correo-electronico/
+RedirectMatch 301 /categoria/internet-basico/ /internet-basico/
+RedirectMatch 301 /categoria/gestores-de-videos/youtube/ /gestores-videos/
+RedirectMatch 301 /categoria/navegadores/ /navegadores/
+RedirectMatch 301 /categoria/musica/spotify/ /musica/
+# RedirectMatch 301 /categoria/microblogging/twitter/
+# RedirectMatch 301 /categoria/buscadores/
+RedirectMatch 301 /categoria/general/ /editorial/
+RedirectMatch 301 /categoria/videos/ /gestores-videos/
+RedirectMatch 301 /categoria/mapas/ /mapas/
+# RedirectMatch 301 /categoria/diseno-web/
+# RedirectMatch 301 /categoria/documentos/
+# RedirectMatch 301 /categoria/microblogging/
+RedirectMatch 301 /categoria/musica/ /musica/
+RedirectMatch 301 /categoria/correo-electronico/ /correo-electronico/
+RedirectMatch 301 /categoria/fotografia/flickr/ /fotografia/
+RedirectMatch 301 /categoria/fotografia/picasa-web-albums/ /fotografia/
+# RedirectMatch 301 /categoria/blogs/
+# RedirectMatch 301 /categoria/calendarios-y-tareas/
+RedirectMatch 301 /categoria/fotografia/ /fotografia/
+RedirectMatch 301 /categoria/navegadores/safari-navegadores/ /navegadores/
+# RedirectMatch 301 /categoria/mensajeria-instantanea/
+# RedirectMatch 301 /categoria/buscadores/bing/
+RedirectMatch 301 /categoria/gestores-de-videos/windows-media-player/ /gestores-videos/
+# RedirectMatch 301 /categoria/microblogging/twubs/
+# RedirectMatch 301 /categoria/buscadores/yahoo-buscadores/
+RedirectMatch 301 /categoria/fotografia/fotolog/ /fotografia/
+RedirectMatch 301 /categoria/mapas/google-maps-mapas/ /mapas/
+
+
+# Páginas
 RedirectMatch 301 /microblogging/twitter/que-es-el-timeline-de-twitter/ /redes-sociales/que-es-el-timeline-de-twitter/
 RedirectMatch 301 /fotografia/fotolog/que-es-fotolog/ /fotografia/que-es-fotolog/
 RedirectMatch 301 /musica/spotify/buscar-una-playlist-spotify/ /musica/buscar-una-playlist-spotify/
-RedirectMatch 301 /categoria/redes-sociales/facebook/ /redes-sociales/
 RedirectMatch 301 /navegadores/abrir-enlace-en-una-pestana-con-google-chrome/attachment/control-click/ /navegadores/abrir-enlace-en-una-pestana-con-google-chrome/
 RedirectMatch 301 /navegadores/atajo-para-guardar-un-enlace-con-google-chrome/attachment/alt-click/ /navegadores/atajo-para-guardar-un-enlace-con-google-chrome/
+RedirectMatch 301 /redes-sociales/facebook/privacidad-grupo-facebook/ /redes-sociales/privacidad-grupo-facebook/
+
+# Tags
+# RedirectMatch 301 /etiqueta/recuperar/
+# RedirectMatch 301 /etiqueta/contrasena/
+# RedirectMatch 301 /etiqueta/nombre-usuario/
+RedirectMatch 301 /etiqueta/email/ /tags/#email
+# RedirectMatch 301 /etiqueta/telefono/
+# RedirectMatch 301 /etiqueta/amigo/
+RedirectMatch 301 /etiqueta/omnibox/ /tags/#omnibox
+# RedirectMatch 301 /etiqueta/facebook-privacidad/
+RedirectMatch 301 /etiqueta/internet-basico-url/ /tags/#url
+RedirectMatch 301 /etiqueta/url/ /tags/#url
+# RedirectMatch 301 /etiqueta/area-de-trabajo/
+# RedirectMatch 301 /etiqueta/facebook-grupos/
+# RedirectMatch 301 /etiqueta/usuario/
+# RedirectMatch 301 /etiqueta/actualizar/
+# RedirectMatch 301 /etiqueta/barra-de-direcciones/
+# RedirectMatch 301 /etiqueta/google-chrome-formularios/
+# RedirectMatch 301 /etiqueta/facebook-album/
+RedirectMatch 301 /etiqueta/navegador/ /tags/#navegadores
+# RedirectMatch 301 /etiqueta/barra-de-busqueda/
+# RedirectMatch 301 /etiqueta/barra-de-herramientas/
+# RedirectMatch 301 /etiqueta/barra-de-navegacion/
+# RedirectMatch 301 /etiqueta/barra-de-titulo/
+# RedirectMatch 301 /etiqueta/facebook-ubicacion/
+# RedirectMatch 301 /etiqueta/fotografia/ /tags/#fotografias
+# RedirectMatch 301 /etiqueta/videos/
+# RedirectMatch 301 /etiqueta/facebook-compartir/
+RedirectMatch 301 /etiqueta/favoritos/ /tags/#favoritos
+# RedirectMatch 301 /etiqueta/marcadores/
+# RedirectMatch 301 /etiqueta/pagina-de-inicio/
+RedirectMatch 301 /etiqueta/pestanas/ /tags/#pestañas
+# RedirectMatch 301 /etiqueta/speed-dial/
+# RedirectMatch 301 /etiqueta/subir/
+# RedirectMatch 301 /etiqueta/youtube-lista/
+
+
 </IfModule>
