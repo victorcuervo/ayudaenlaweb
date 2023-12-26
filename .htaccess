@@ -26,4 +26,75 @@ RedirectMatch 301 /musica/spotify/buscar-una-playlist-spotify/ /musica/buscar-un
 RedirectMatch 301 /categoria/redes-sociales/facebook/ /redes-sociales/
 RedirectMatch 301 /navegadores/abrir-enlace-en-una-pestana-con-google-chrome/attachment/control-click/ /navegadores/abrir-enlace-en-una-pestana-con-google-chrome/
 RedirectMatch 301 /navegadores/atajo-para-guardar-un-enlace-con-google-chrome/attachment/alt-click/ /navegadores/atajo-para-guardar-un-enlace-con-google-chrome/
+
+
+
+
+RedirectMatch 301 /categoria/redes-sociales/
+RedirectMatch 301 /categoria/navegadores/google-chrome/
+RedirectMatch 301 /categoria/gestores-de-videos/
+RedirectMatch 301 /etiqueta/recuperar/
+RedirectMatch 301 /categoria/buscadores/google-buscadores/
+RedirectMatch 301 /categoria/correo-electronico/gmail/
+RedirectMatch 301 /categoria/internet-basico/
+RedirectMatch 301 /etiqueta/contrasena/
+RedirectMatch 301 /categoria/gestores-de-videos/youtube/
+RedirectMatch 301 /categoria/navegadores/
+RedirectMatch 301 /categoria/musica/spotify/
+RedirectMatch 301 /categoria/microblogging/twitter/
+RedirectMatch 301 /categoria/buscadores/
+RedirectMatch 301 /categoria/general/
+RedirectMatch 301 /categoria/videos/
+RedirectMatch 301 /categoria/mapas/
+RedirectMatch 301 /categoria/diseno-web/
+RedirectMatch 301 /categoria/documentos/
+RedirectMatch 301 /categoria/microblogging/
+RedirectMatch 301 /categoria/musica/
+RedirectMatch 301 /categoria/correo-electronico/
+RedirectMatch 301 /categoria/fotografia/flickr/
+RedirectMatch 301 /categoria/fotografia/picasa-web-albums/
+RedirectMatch 301 /categoria/blogs/
+RedirectMatch 301 /categoria/calendarios-y-tareas/
+RedirectMatch 301 /categoria/fotografia/
+RedirectMatch 301 /categoria/navegadores/safari-navegadores/
+RedirectMatch 301 /categoria/mensajeria-instantanea/
+RedirectMatch 301 /categoria/buscadores/bing/
+RedirectMatch 301 /categoria/gestores-de-videos/windows-media-player/
+RedirectMatch 301 /categoria/microblogging/twubs/
+RedirectMatch 301 /categoria/buscadores/yahoo-buscadores/
+RedirectMatch 301 /categoria/fotografia/fotolog/
+RedirectMatch 301 /categoria/mapas/google-maps-mapas/
+RedirectMatch 301 /etiqueta/nombre-usuario/
+RedirectMatch 301 /etiqueta/email/
+RedirectMatch 301 /etiqueta/telefono/
+RedirectMatch 301 /etiqueta/amigo/
+RedirectMatch 301 /etiqueta/omnibox/
+RedirectMatch 301 /etiqueta/facebook-privacidad/
+RedirectMatch 301 /etiqueta/internet-basico-url/
+RedirectMatch 301 /etiqueta/url/
+RedirectMatch 301 /etiqueta/area-de-trabajo/
+RedirectMatch 301 /etiqueta/facebook-grupos/
+RedirectMatch 301 /etiqueta/usuario/
+RedirectMatch 301 /etiqueta/actualizar/
+RedirectMatch 301 /etiqueta/barra-de-direcciones/
+RedirectMatch 301 /etiqueta/google-chrome-formularios/
+RedirectMatch 301 /etiqueta/facebook-album/
+RedirectMatch 301 /etiqueta/navegador/
+RedirectMatch 301 /etiqueta/barra-de-busqueda/
+RedirectMatch 301 /etiqueta/barra-de-herramientas/
+RedirectMatch 301 /etiqueta/barra-de-navegacion/
+RedirectMatch 301 /etiqueta/barra-de-titulo/
+RedirectMatch 301 /etiqueta/facebook-ubicacion/
+RedirectMatch 301 /etiqueta/fotografia/
+RedirectMatch 301 /etiqueta/videos/
+RedirectMatch 301 /etiqueta/facebook-compartir/
+RedirectMatch 301 /etiqueta/favoritos/
+RedirectMatch 301 /etiqueta/marcadores/
+RedirectMatch 301 /etiqueta/pagina-de-inicio/
+RedirectMatch 301 /etiqueta/pestanas/
+RedirectMatch 301 /etiqueta/speed-dial/
+RedirectMatch 301 /etiqueta/subir/
+RedirectMatch 301 /etiqueta/youtube-lista/
+
+
 </IfModule>

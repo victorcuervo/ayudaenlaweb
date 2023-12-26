@@ -61,9 +61,15 @@ tag_archive_path: "/tags/#"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-theme-so-simple.gemspec
+  - package.json
+  - package-lock.json
+  - README.md
+  
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/

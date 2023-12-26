@@ -8,7 +8,7 @@ redirect_from:
  - /lista-de-correo/
 ---
 
-Todas las novedades de [Arquitecto IT][ArquitectoIT] son publicadas en nuestra lista de correo. Déjanos tus datos y te enviaremos la lista cada vez que tengamos novedades.
+Todas las novedades de [Ayuda en la Web][AYW] son publicadas en nuestra lista de correo. Déjanos tus datos y te enviaremos la lista cada vez que tengamos novedades.
 
 
 <!-- Begin MailChimp Signup Form -->
@@ -48,4 +48,4 @@ Todas las novedades de [Arquitecto IT][ArquitectoIT] son publicadas en nuestra l
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-[ArquitectoIT]: {{ site.url }}/acerca-de
+[AYW]: {{ site.url }}/acerca-de/
