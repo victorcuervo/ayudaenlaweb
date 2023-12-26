@@ -51,7 +51,7 @@ Alrededor de las redes sociales han aparecido múltiples herramientas que han pe
 
 - [Facebook](https://www.ayudaenlaweb.com/redes-sociales/que-es-facebook/)
 - X (antes Twitter)
-- Instagram
+- [Instagram](https://www.ayudaenlaweb.com/redes-sociales/que-es-instagram/)
 - LinkedIn
 - Pinterest
 - Snapchat
