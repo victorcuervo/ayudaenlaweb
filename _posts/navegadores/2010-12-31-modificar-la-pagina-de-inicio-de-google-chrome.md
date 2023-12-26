@@ -4,6 +4,7 @@ title: Modificar la página de inicio de Google Chrome
 excerpt: Pasos que hay que seguir para poder modificar la página de inicio de Google Chrome
 categories: Navegadores
 tags: [chrome,pagina inicio]
+last_modified_at: 2010-12-31
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

@@ -4,6 +4,7 @@ title: ¿Qué es YouTube?
 excerpt: YouTube es un sitio web para la gestión de vídeos digitales, el cual nos permite compartirlos de forma gratuita entre todos los usuarios de la red.
 categories: Gestores-Videos
 tags: [youtube]
+last_modified_at: 2008-12-27
 image:
   path: /images/covers/youtube.webp
   thumbnail: /images/covers/youtube.webp

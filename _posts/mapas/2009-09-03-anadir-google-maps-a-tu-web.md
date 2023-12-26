@@ -4,6 +4,7 @@ title: Añadir Google Maps a tu web
 excerpt: Artículo que nos explica los pasos a seguir para poder añadir Google Maps a tu web.
 categories: Mapas
 tags: [google maps,pagina web]
+last_modified_at: 2009-09-03
 image:
   path: /images/covers/google-maps.webp
   thumbnail: /images/covers/google-maps.webp

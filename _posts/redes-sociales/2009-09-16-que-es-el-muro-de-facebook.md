@@ -4,6 +4,7 @@ title: ¿Qué es el muro de Facebook?
 excerpt: El muro de Facebook es el elemento central en el que se relacionan los usuarios de esta red social.
 categories: Redes-Sociales
 tags: [muro]
+last_modified_at: 2009-09-16
 image:
   path: /images/covers/facebook.webp
   thumbnail: /images/covers/facebook.webp

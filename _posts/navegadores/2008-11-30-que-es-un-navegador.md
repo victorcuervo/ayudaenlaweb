@@ -4,6 +4,7 @@ title: ¿Qué es un navegador?
 excerpt: Para saber qué es un navegador debemos conocer que es un software que nos permite visualizar y navegar por las páginas web.
 categories: Navegadores
 tags: []
+last_modified_at: 2008-11-30
 image:
   path: /images/covers/browser.webp
   thumbnail: /images/covers/browser.webp

@@ -4,6 +4,7 @@ title: Partes de un Email
 excerpt: Aprende cuales son las partes de un email y el uso del para, copia, copia oculta o asunto.
 categories: Correo-Electronico
 tags: []
+last_modified_at: 2008-11-30
 image:
   path: /images/covers/email.webp
   thumbnail: /images/covers/email.webp

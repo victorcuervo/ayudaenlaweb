@@ -4,6 +4,7 @@ title: Pestañas con vista en miniatura con Opera
 excerpt: Cómo configurar las pestañas con vista en miniatura con Opera y así simplificar su visualización.
 categories: Navegadores
 tags: []
+last_modified_at: 2010-01-22
 image:
   path: /images/covers/opera.webp
   thumbnail: /images/covers/opera.webp

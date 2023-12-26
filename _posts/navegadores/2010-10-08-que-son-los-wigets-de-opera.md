@@ -4,6 +4,7 @@ title: ¿Qué son los wigets de Opera?
 excerpt: Los widgets de Opera son extensiones del navegador que nos permiten incrementar las funcionalidades del mismo.
 categories: Navegadores
 tags: []
+last_modified_at: 2010-10-08
 image:
   path: /images/covers/opera.webp
   thumbnail: /images/covers/opera.webp

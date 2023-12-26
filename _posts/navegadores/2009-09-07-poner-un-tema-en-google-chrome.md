@@ -4,6 +4,7 @@ title: Poner un tema en Google Chrome
 excerpt: Pasos para personalizar nuestro navegador y así poder poder un tema en Google Chrome.
 categories: Navegadores
 tags: [chrome,tema]
+last_modified_at: 2009-09-07
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

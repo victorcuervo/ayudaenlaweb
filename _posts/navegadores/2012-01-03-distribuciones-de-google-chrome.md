@@ -4,6 +4,7 @@ title: Distribuciones de Google Chrome
 excerpt: Conoce las distribuciones de Google Chrome build, dev y beta.
 categories: Navegadores
 tags: [chrome]
+last_modified_at: 2012-01-03
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

@@ -4,6 +4,7 @@ title: Privacidad grupo Facebook
 excerpt: Gestionar la privacidad grupo Facebook y saber cuando ponerlo como público, cerrado o secreto.
 categories: Redes-Sociales
 tags: [facebook]
+last_modified_at: 2016-09-12
 image:
   path: /images/covers/facebook.webp
   thumbnail: /images/covers/facebook.webp

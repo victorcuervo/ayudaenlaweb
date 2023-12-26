@@ -4,6 +4,7 @@ title: Recuperar una pestaña cerrada en Google Chrome
 excerpt: Cómo podemos proceder para poder recuperar una pestaña cerrada en Google Chrome
 categories: Navegadores
 tags: [chrome]
+last_modified_at: 2012-01-05
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

@@ -4,6 +4,7 @@ title: Instalar el navegador Opera
 excerpt: Pasos que hay que seguir para poder instalar el navegador Opera en tu ordenador.
 categories: Navegadores
 tags: [opera]
+last_modified_at: 2010-01-30
 image:
   path: /images/covers/opera.webp
   thumbnail: /images/covers/opera.webp

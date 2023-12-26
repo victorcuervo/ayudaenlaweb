@@ -4,6 +4,7 @@ title: Compartir un enlace en Facebook
 excerpt: Artículo que explica las diferentes formas en la que podemos compartir un enlace en Facebook.
 categories: Redes-Sociales
 tags: [facebook]
+last_modified_at: 2009-10-20
 image:
   path: /images/covers/facebook.webp
   thumbnail: /images/covers/facebook.webp

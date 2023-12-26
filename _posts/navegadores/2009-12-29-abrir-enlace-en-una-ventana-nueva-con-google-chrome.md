@@ -4,6 +4,7 @@ title: Abrir enlace en una ventana nueva con Google Chrome
 excerpt: Cómo proceder para poder abrir enlace en una ventana nueva con Google Chrome
 categories: Navegadores
 tags: [chrome,enlace]
+last_modified_at: 2009-12-29
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

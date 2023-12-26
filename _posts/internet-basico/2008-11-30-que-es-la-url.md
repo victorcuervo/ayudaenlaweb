@@ -4,6 +4,7 @@ title: ¿Qué es la URL?
 excerpt: Explicación de qué es la URL o el Unified Resource Locator que insertamos en nuesros navegadores web.
 categories: Internet-Basico
 tags: [url]
+last_modified_at: 2008-11-30
 image:
   path: /images/covers/navegador.webp
   thumbnail: /images/covers/navegador.webp

@@ -4,6 +4,7 @@ title: ¿Qué es Safari?
 excerpt: Safari es el navegador web de la compañía Apple y que podemos encontrar en sus Mac, iPhone e iPads.
 categories: Navegadores
 tags: [safari]
+last_modified_at: 2010-06-22
 image:
   path: /images/covers/brujula.webp
   thumbnail: /images/covers/brujula.webp

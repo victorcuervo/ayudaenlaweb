@@ -4,6 +4,7 @@ title: Darse de alta en Facebook
 excerpt: Pasos que hay que seguir para poder darse de alta en Facebook y tener una cuenta en esta red social.
 categories: Redes-Sociales
 tags: [facebook]
+last_modified_at: 2008-12-07
 image:
   path: /images/covers/facebook.webp
   thumbnail: /images/covers/facebook.webp

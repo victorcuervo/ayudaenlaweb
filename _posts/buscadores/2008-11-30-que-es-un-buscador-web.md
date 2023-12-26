@@ -4,6 +4,7 @@ title: ¿Qué es un buscador web?
 excerpt: Un buscador web es una herramienta que indexa todas las páginas que hay en Internet para poder buscar sobre ellas.
 categories: Buscadores
 tags: []
+last_modified_at: 2008-11-30
 image:
   path: /images/covers/search.webp
   thumbnail: /images/covers/search.webp

@@ -4,6 +4,7 @@ title: ¿Qué es Google Maps?
 excerpt: Google Maps es un servicio Web de Mapas de Google que nos permite interactuar en búsqueda de localizaciones, así como obtener rutas entre puntos diferentes del mapa.
 categories: Mapas
 tags: [google maps]
+last_modified_at: 2011-01-06
 image:
   path: /images/covers/google-maps.webp
   thumbnail: /images/covers/google-maps.webp

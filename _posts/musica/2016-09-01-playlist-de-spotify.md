@@ -4,6 +4,7 @@ title: Playlist de Spotify
 excerpt: Artículo que nos explica qué son las playlist de Spotify y como podemos añadir canciones a ellas.
 categories: Musica
 tags: [spotify,playlist]
+last_modified_at: 2016-09-01
 image:
   path: /images/covers/spotify.webp
   thumbnail: /images/covers/spotify.webp

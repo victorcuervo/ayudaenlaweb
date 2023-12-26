@@ -4,6 +4,7 @@ title: ¿Qué es el Speed Dial de Opera?
 excerpt: El Seed Dial de Opera es una funcionalidad que nos permite aglutinar en la página de inicio de Opera las páginas más interesantes.
 categories: Navegadores
 tags: [opera]
+last_modified_at: 2011-01-04
 image:
   path: /images/covers/opera.webp
   thumbnail: /images/covers/opera.webp

@@ -4,6 +4,7 @@ title: Cambiar las pestañas de lugar con Opera
 excerpt: Cómo poder cambiar las pestañas de lugar con Opera y que estas queden en una nueva posición.
 categories: Navegadores
 tags: [opera,pestañas]
+last_modified_at: 2010-01-01
 image:
   path: /images/covers/opera.webp
   thumbnail: /images/covers/opera.webp

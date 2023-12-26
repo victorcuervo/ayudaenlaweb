@@ -4,6 +4,7 @@ title: Obtener una ruta en Google Maps
 excerpt: Cómo obtener una ruta en Google Maps entre dos puntos definidos del mapa.
 categories: Mapas
 tags: [google maps]
+last_modified_at: 2011-01-09
 image:
   path: /images/covers/google-maps.webp
   thumbnail: /images/covers/google-maps.webp

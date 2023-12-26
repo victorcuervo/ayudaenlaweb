@@ -4,6 +4,7 @@ title: ¿Qué es Opera Mini?
 excerpt: Opera Mini es la versión del navegador Opera para los dispositivos móviles.
 categories: Navegadores
 tags: [opera,operamini]
+last_modified_at: 2010-10-31
 image:
   path: /images/covers/opera.webp
   thumbnail: /images/covers/opera.webp

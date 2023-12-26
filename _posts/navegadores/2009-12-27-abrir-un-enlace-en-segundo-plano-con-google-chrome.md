@@ -4,6 +4,7 @@ title: Abrir un enlace en segundo plano con Google Chrome
 excerpt: Qué pasos hay que dar para poder abrir un enlace en segundo plano con Google Chrome.
 categories: Navegadores
 tags: []
+last_modified_at: 2009-12-27
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

@@ -4,6 +4,7 @@ title: Descargas más rápidas con Opera Turbo
 excerpt: Cómo tener descargas más rápidas con Opera Turbo y conseguir que las páginas web se muestren más rápidamente.
 categories: Navegadores
 tags: []
+last_modified_at: 2010-01-25
 image:
   path: /images/covers/opera.webp
   thumbnail: /images/covers/opera.webp

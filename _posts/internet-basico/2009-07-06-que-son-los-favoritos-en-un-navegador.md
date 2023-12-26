@@ -4,6 +4,7 @@ title: ¿Qué son los favoritos en un navegador?
 excerpt: Qué son los favoritos en un navegador y cómo podemos guardar en ellos diferentes páginas web.
 categories: Internet-Basico
 tags: [favoritos,firefox]
+last_modified_at: 2009-07-06
 image:
   path: /images/covers/internet-basico.webp
   thumbnail: /images/covers/internet-basico.webp

@@ -4,6 +4,7 @@ title: Hacer referencia a un amigo en un comentario de Facebook
 excerpt: Artículo que explica cómo podemos hacer referencia a un amigo en un comentario de Facebook.
 categories: Redes-Sociales
 tags: [facebook]
+last_modified_at: 2010-09-08
 image:
   path: /images/covers/facebook.webp
   thumbnail: /images/covers/facebook.webp

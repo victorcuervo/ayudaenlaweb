@@ -4,6 +4,7 @@ title: Búsquedas en páginas web desde Google Chrome
 excerpt: Cómo configurar nuestro navegador para poder realizar búsquedas en páginas web desde Google Chrome.
 categories: Navegadores
 tags: [chrome]
+last_modified_at: 2012-01-21
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

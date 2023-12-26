@@ -4,6 +4,7 @@ title: ¿Qué es el timeline de Twitter?
 excerpt: Qué es el timeline de Twitter y cómo podemos ver los mensajes de los usuarios a los que seguimos.
 categories: Redes-Sociales
 tags: [twitter,timeline]
+last_modified_at: 2011-01-12
 image:
   path: /images/covers/twitter.webp
   thumbnail: /images/covers/twitter.webp

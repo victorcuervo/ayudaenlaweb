@@ -4,6 +4,7 @@ title: ¿Qué es Foursquare?
 excerpt: Foursquare es una red social basada en la geolocalización en la cual puedes compartir tu ubicación con tus contactos.
 categories: Mapas
 tags: [foursquare]
+last_modified_at: 2010-02-02
 image:
   path: /images/covers/senal-mapa.webp
   thumbnail: /images/covers/senal-mapa.webp

@@ -4,6 +4,7 @@ title: ¿Qué es una red social?
 excerpt: Si queremos saber qué es una red social podríamos resumirlo en un grupo de individuos que comparten intereses comunes
 categories: Redes-Sociales
 tags: [redes sociales]
+last_modified_at: 2008-12-03
 image:
   path: /images/covers/social-media.webp
   thumbnail: /images/covers/social-media.webp

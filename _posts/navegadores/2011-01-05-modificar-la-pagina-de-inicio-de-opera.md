@@ -4,6 +4,7 @@ title: Modificar la pagina de inicio de Opera
 excerpt: Cómo modificar la página de inicio de Opera para poder tener como primera página la que nosotros queramos.
 categories: Navegadores
 tags: []
+last_modified_at: 2011-01-05
 image:
   path: /images/covers/opera.webp
   thumbnail: /images/covers/opera.webp

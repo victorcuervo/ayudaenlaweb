@@ -4,6 +4,7 @@ title: Sincronizar los bookmarks en Chrome
 excerpt: Cómo podemos sincronizar los bookmarks en Chrome para poderlos ver en cualquier dispositivo.
 categories: Navegadores
 tags: [chrome,bookmarks]
+last_modified_at: 2010-05-24
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

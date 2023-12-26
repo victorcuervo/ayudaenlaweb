@@ -4,6 +4,7 @@ title: Recuperar la contraseña de Facebook
 excerpt: Pasos para poder recuperar la contraseña de Facebook si la hemos olvidado o perdido.
 categories: Redes-Sociales
 tags: [facebook,url]
+last_modified_at: 2012-01-14
 image:
   path: /images/covers/facebook.webp
   thumbnail: /images/covers/facebook.webp

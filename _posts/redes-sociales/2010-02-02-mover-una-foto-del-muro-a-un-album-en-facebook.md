@@ -4,6 +4,7 @@ title: Mover una foto del muro a un álbum en Facebook
 excerpt: Como mover una foto del muro a un álbum en Facebook para poder organizar mejor tus fotografías.
 categories: Redes-Sociales
 tags: [facebook,muro]
+last_modified_at: 2010-02-02
 image:
   path: /images/covers/facebook.webp
   thumbnail: /images/covers/facebook.webp

@@ -4,6 +4,7 @@ title: Poner Google Chrome a pantalla completa
 excerpt: Cómo podemos poner Google Chrome a pantalla completa para aprovechar toda la resolución de nuestro monitor.
 categories: Navegadores
 tags: [chrome,pantalla completa]
+last_modified_at: 2009-09-08
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

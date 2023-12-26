@@ -4,6 +4,7 @@ title: Cambiar la visualización del álbum en Facebook
 excerpt: Pasos que tenemos que dar para poder cambiar la visualización del álbum en Facebook a la clásica o la de comentarios.
 categories: Redes-Sociales
 tags: [facebook,album fotos]
+last_modified_at: 2012-01-21
 image:
   path: /images/covers/facebook.webp
   thumbnail: /images/covers/facebook.webp

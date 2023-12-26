@@ -4,6 +4,7 @@ title: ¿Qué es la página de inicio de un navegador?
 excerpt: La página de inicio de un navegador es la primera página que se carga una vez abrimos el navegador.
 categories: Navegadores
 tags: []
+last_modified_at: 2010-12-30
 image:
   path: /images/covers/browser.webp
   thumbnail: /images/covers/browser.webp

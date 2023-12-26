@@ -4,6 +4,7 @@ title: ¿Qué es Firefox?
 excerpt: Firefox es un navegador web gratuito desarrollado por Mozilla, el cual nos permite navegar por las diferentes páginas de una forma sencilla.
 categories: Navegadores
 tags: [firefox,mozilla,chrome,edge,seguridad,privacidad]
+last_modified_at: 2008-12-22
 image:
   path: /images/covers/firefox.webp
   thumbnail: /images/covers/firefox.webp

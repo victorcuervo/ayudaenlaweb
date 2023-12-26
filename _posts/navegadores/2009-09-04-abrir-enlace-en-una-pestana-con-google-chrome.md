@@ -4,6 +4,7 @@ title: Abrir enlace en una pestaña con Google Chrome
 excerpt: Cómo conseguir abrir enlace en una peataña con Google Chrome cuando pulsamos sobre uno de los enlaces de la página.
 categories: Navegadores
 tags: [chrome,pestañas,enlace]
+last_modified_at: 2009-09-04
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

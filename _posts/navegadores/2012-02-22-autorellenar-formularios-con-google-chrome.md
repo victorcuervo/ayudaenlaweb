@@ -4,6 +4,7 @@ title: Autorellenar formularios con Google Chrome
 excerpt: Facilitar completar datos mediante el procedimiento de autorellenar formularios en Google Chome.
 categories: Navegadores
 tags: [chrome]
+last_modified_at: 2012-02-22
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

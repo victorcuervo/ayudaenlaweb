@@ -4,6 +4,7 @@ title: Buscar desde Google Chrome
 excerpt: Qué pasos tenemos que seguir para poder buscar desde Google Chrome cualquier cosa que necesitemos directamente sobre el navegador.
 categories: Navegadores
 tags: [chrome]
+last_modified_at: 2012-01-06
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

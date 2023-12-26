@@ -4,6 +4,7 @@ title: Imágenes estáticas de Google Maps
 excerpt: Cómo proceder para poder incluir imágenes estáticas de Google Maps en tu web.
 categories: Mapas
 tags: [google maps,google]
+last_modified_at: 2011-01-08
 image:
   path: /images/covers/google-maps.webp
   thumbnail: /images/covers/google-maps.webp

@@ -4,6 +4,7 @@ title: Uso de memoria del Google Chrome
 excerpt: Artículo que nos explica cómo se realiza el uso de memoria del Google Chrome
 categories: Navegadores
 tags: [chrome,memoria]
+last_modified_at: 2009-09-06
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

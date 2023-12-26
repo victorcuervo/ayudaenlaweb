@@ -4,6 +4,7 @@ title: ¿Qué es el Omnibox de Google Chrome?
 excerpt: El Omnibox de Google Chrome es la barra de direcciones dónde tecleamos la URL a la que queremos navegar.
 categories: Navegadores
 tags: [omnibox,chrome,google,url]
+last_modified_at: 2012-01-08
 image:
   path: /images/covers/google.webp
   thumbnail: /images/covers/google.webp

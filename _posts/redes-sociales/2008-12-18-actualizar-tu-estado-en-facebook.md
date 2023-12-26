@@ -4,6 +4,7 @@ title: Actualizar tu estado en Facebook
 excerpt: Pasos que hay que seguir para poder actualizar tu estado en Facebook y compartirlo con tus contactos.
 categories: Redes-Sociales
 tags: []
+last_modified_at: 2008-12-18
 image:
   path: /images/covers/facebook.webp
   thumbnail: /images/covers/facebook.webp

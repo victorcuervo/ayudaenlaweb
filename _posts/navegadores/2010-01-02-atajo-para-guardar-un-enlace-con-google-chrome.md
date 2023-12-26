@@ -4,6 +4,7 @@ title: Atajo para guardar un enlace con Google Chrome
 excerpt: Cómo tenemos que hacer para poder crear un atajo para guardar un enlace con Google Chrome.
 categories: Navegadores
 tags: [chrome,enlace]
+last_modified_at: 2010-01-02
 image:
   path: /images/covers/chrome.webp
   thumbnail: /images/covers/chrome.webp

@@ -4,6 +4,7 @@ title: ¿Qué es Fotolog?
 excerpt: Fotolog es una bitácora fotográfica dónde los usuarios suben una foro asociándola a un día en concreto.
 categories: Fotografia
 tags: [fotolog]
+last_modified_at: 2010-09-01
 image:
   path: /images/covers/fotografia.webp
   thumbnail: /images/covers/fotografia.webp

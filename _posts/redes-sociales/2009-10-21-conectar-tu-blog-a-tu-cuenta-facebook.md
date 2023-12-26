@@ -4,6 +4,7 @@ title: Conectar tu blog a tu cuenta Facebook
 excerpt: Cómo poder conectar tu blog a tu cuenta de Facebook para que se vean las nuevas entradas en Facebook.
 categories: Redes-Sociales
 tags: [facebook,blog]
+last_modified_at: 2009-10-21
 image:
   path: /images/covers/facebook.webp
   thumbnail: /images/covers/facebook.webp

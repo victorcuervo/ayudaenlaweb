@@ -4,6 +4,7 @@ title: ¿Qué es Opera?
 excerpt: Opera es un navegador web de la empresa Opera Software que nos permite navegador por la web.
 categories: Navegadores
 tags: [opera]
+last_modified_at: 2010-01-20
 image:
   path: /images/covers/opera.webp
   thumbnail: /images/covers/opera.webp

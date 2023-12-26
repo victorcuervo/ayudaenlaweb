@@ -4,6 +4,7 @@ title: Abrir una nueva pestaña en Opera
 excerpt: Cómo abrir una nueva pestaña en Opera desde la página actual cargada en el navegador.
 categories: Navegadores
 tags: []
+last_modified_at: 2010-10-20
 image:
   path: /images/covers/opera.webp
   thumbnail: /images/covers/opera.webp
