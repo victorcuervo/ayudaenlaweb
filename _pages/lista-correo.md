@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Lista de Correo
-excerpt: "Lista de Correo Arquitecto IT"
+excerpt: "Lista de Correo Ayuda en la Web"
 image:
-  path: /images/portada.png
+  path: /images/portada.webp
+  thumbnail: /images/portada.webp
+  caption: Fotografía de [freepik](hhttps://www.freepik.es/autor/freepik)
 redirect_from:
  - /lista-de-correo/
 ---

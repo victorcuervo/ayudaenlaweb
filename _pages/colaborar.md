@@ -2,9 +2,11 @@
 layout: page
 title: Colaborar
 permalink: /colaborar/
-excerpt: "Cómo puedes colaborar con Arquitecto IT contribuyendo con tu contenido."
+excerpt: "Cómo puedes colaborar con Ayuda en la Web contribuyendo con tu contenido."
 image:
-  path: /images/portada.png
+  path: /images/portada.webp
+  thumbnail: /images/portada.webp
+  caption: Fotografía de [freepik](hhttps://www.freepik.es/autor/freepik)
 ---
 
 [Arquitecto IT][ArquitectoIT] es una página **abierta a cualquier tipo de colaboración**. Siempre que esta verse sobre un **tema de arquitectura tecnológica y lo afrente de la manera más pedagógica posible**.
