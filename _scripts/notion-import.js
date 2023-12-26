@@ -44,7 +44,7 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 		let lastdate = moment(r.created_time).format("YYYY-MM-DD")
 		let plastdate = r.properties?.['Last Date']?.['date']?.['start']
 		if (plastdate) {
-			lastdate = moment(pdate).format('YYYY-MM-DD')
+			lastdate = moment(plastdate).format('YYYY-MM-DD')
 		}
         
 		// title
