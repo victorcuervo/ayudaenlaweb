@@ -14,7 +14,7 @@ share: true
 author: victor_cuervo
 ---
 
-Si ya has aprendido [qué es un email](https://www.ayudaenlaweb.com/2008/11/30/que-es-un-email/), ahora vamos a ver de que partes se compone el email. Si abres cualquier programa de correo electrónico veras una estructura como la que sigue:
+Si ya has aprendido [qué es un email](https://www.ayudaenlaweb.com/correo-electronico/que-es-un-email/), ahora vamos a ver de que partes se compone el email. Si abres cualquier programa de correo electrónico veras una estructura como la que sigue:
 
 
 ![](https://www.ayudaenlaweb.com/wp-content/uploads/2008/11/partes_de_un_email-300x185.jpg)
