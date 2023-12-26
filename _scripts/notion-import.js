@@ -40,6 +40,12 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 			date = moment(pdate).format('YYYY-MM-DD')
         }
         
+		// date
+		let lastdate = moment(r.created_time).format("YYYY-MM-DD")
+		let plastdate = r.properties?.['Last Date']?.['date']?.['start']
+		if (plastdate) {
+			lastdate = moment(pdate).format('YYYY-MM-DD')
+		}
         
 		// title
 		let title = id
@@ -109,6 +115,7 @@ title: ${title}
 excerpt: ${excerpt}
 categories: ${cat}
 tags: ${t}
+last_modified_at: ${lastdate}
 image:
   path: /images/${image}
   thumbnail: /images/${image}
