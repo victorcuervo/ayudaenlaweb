@@ -98,7 +98,7 @@ RedirectMatch 301 /etiqueta/favoritos/ /tags/#favoritos
 RedirectMatch 301 /etiqueta/pestanas/ /tags/#pestañas
 # RedirectMatch 301 /etiqueta/speed-dial/
 # RedirectMatch 301 /etiqueta/subir/
-# RedirectMatch 301 /etiqueta/youtube-lista/
+RedirectMatch 301 /etiqueta/youtube-lista/ /tags/#youtube
 
 
 </IfModule>
