@@ -2,7 +2,7 @@
 layout: home
 title: Ayuda en la Web
 entries_layout: grid
-posts_limit: 9
+posts_limit: 12
 excerpt: "Ayuda en la Web pretende ayudanos a conocer y poder utilizar de la mejor manera las aplicaciones que existen en Internet."
 search: false
 image:
