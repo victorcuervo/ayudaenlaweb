@@ -6,8 +6,8 @@ categories: Internet-Basico
 tags: [redes sociales,hashtags,marketingdigital]
 last_modified_at: 2023-12-27
 image:
-  path: /images/covers/hashtags.webp
-  thumbnail: /images/covers/hashtags.webp
+  path: /images/covers/hashtag.webp
+  thumbnail: /images/covers/hashtag.webp
   caption: Fotografía de [Freepik](https://www.freepik.es/autor/freepik)
 comments: true
 share: true
