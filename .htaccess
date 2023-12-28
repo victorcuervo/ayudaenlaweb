@@ -32,14 +32,14 @@ RedirectMatch 301 /categoria/internet-basico/ /internet-basico/
 RedirectMatch 301 /categoria/gestores-de-videos/youtube/ /gestores-videos/
 RedirectMatch 301 /categoria/navegadores/ /navegadores/
 RedirectMatch 301 /categoria/musica/spotify/ /musica/
-# RedirectMatch 301 /categoria/microblogging/twitter/
+RedirectMatch 301 /categoria/microblogging/twitter/ /redes-sociales/
 # RedirectMatch 301 /categoria/buscadores/
 RedirectMatch 301 /categoria/general/ /editorial/
 RedirectMatch 301 /categoria/videos/ /gestores-videos/
 RedirectMatch 301 /categoria/mapas/ /mapas/
 # RedirectMatch 301 /categoria/diseno-web/
 # RedirectMatch 301 /categoria/documentos/
-# RedirectMatch 301 /categoria/microblogging/
+RedirectMatch 301 /categoria/microblogging/ /redes-sociales/
 RedirectMatch 301 /categoria/musica/ /musica/
 RedirectMatch 301 /categoria/correo-electronico/ /correo-electronico/
 RedirectMatch 301 /categoria/fotografia/flickr/ /fotografia/
@@ -51,7 +51,7 @@ RedirectMatch 301 /categoria/navegadores/safari-navegadores/ /navegadores/
 # RedirectMatch 301 /categoria/mensajeria-instantanea/
 # RedirectMatch 301 /categoria/buscadores/bing/
 RedirectMatch 301 /categoria/gestores-de-videos/windows-media-player/ /gestores-videos/
-# RedirectMatch 301 /categoria/microblogging/twubs/
+RedirectMatch 301 /categoria/microblogging/twubs/ /redes-sociales/
 # RedirectMatch 301 /categoria/buscadores/yahoo-buscadores/
 RedirectMatch 301 /categoria/fotografia/fotolog/ /fotografia/
 RedirectMatch 301 /categoria/mapas/google-maps-mapas/ /mapas/
@@ -64,6 +64,18 @@ RedirectMatch 301 /musica/spotify/buscar-una-playlist-spotify/ /musica/buscar-un
 RedirectMatch 301 /navegadores/abrir-enlace-en-una-pestana-con-google-chrome/attachment/control-click/ /navegadores/abrir-enlace-en-una-pestana-con-google-chrome/
 RedirectMatch 301 /navegadores/atajo-para-guardar-un-enlace-con-google-chrome/attachment/alt-click/ /navegadores/atajo-para-guardar-un-enlace-con-google-chrome/
 RedirectMatch 301 /redes-sociales/facebook/privacidad-grupo-facebook/ /redes-sociales/privacidad-grupo-facebook/
+RedirectMatch 301 /microblogging/twitter/que-es-twitter/ /redes-sociales/que-es-twitter/
+RedirectMatch 301 /microblogging/twitter/crear-un-hashtag-en-twitter/ /redes-sociales/crear-un-hashtag-en-twitter/
+RedirectMatch 301 /microblogging/twitter/que-son-los-followers-de-twitter/ /redes-sociales/que-son-los-followers-de-twitter/
+RedirectMatch 301 /microblogging/twitter/darse-de-alta-en-twitter/ /redes-sociales/darse-de-alta-en-twitter/
+RedirectMatch 301 /microblogging/twitter/que-es-retweet-en-twitter/ /redes-sociales/que-es-retweet-en-twitter/
+RedirectMatch 301 /microblogging/que-es-el-timeline-de-twitter/ /redes-sociales/que-es-el-timeline-de-twitter/
+RedirectMatch 301 /microblogging/que-es-twitter/ /redes-sociales/que-es-twitter/
+RedirectMatch 301 /microblogging/twitter/foto-perfil-de-twitter/ /redes-sociales/foto-perfil-de-twitter/
+RedirectMatch 301 /microblogging/twitter/foto-cabecera-en-twitter/ /redes-sociales/foto-cabecera-en-twitter/
+RedirectMatch 301 /microblogging/twitter/que-es-un-tweet/ /redes-sociales/que-es-un-tweet/
+RedirectMatch 301 /microblogging/que-es-twubs/ /redes-sociales/que-es-twubs/
+RedirectMatch 301 /microblogging/que-es-seesmic/ /redes-sociales/que-es-seesmic/
 
 # Tags
 # RedirectMatch 301 /etiqueta/recuperar/
