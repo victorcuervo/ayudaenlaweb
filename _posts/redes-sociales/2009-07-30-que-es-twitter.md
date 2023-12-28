@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es Twitter?
-excerpt: 0fc6bf31-0472-4900-bb36-c6ed3af69494
+excerpt: Twitter es una red social y un servicio de microblogging, el cual permite compartir mensajes de 140 caracteres.
 categories: Redes-Sociales
 tags: [twitter,microblogging]
 last_modified_at: 2009-07-30

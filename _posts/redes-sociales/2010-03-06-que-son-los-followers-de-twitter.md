@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué son los followers de Twitter?
-excerpt: 8f356eee-32f6-4b5d-8f19-bb2537d3ccbd
+excerpt: Los followers de Twitter son las personas que te están siguiendo en Twitter, recibiendo las actualizaciones de estado que tú estés generando.
 categories: Redes-Sociales
 tags: [twitter,follower]
 last_modified_at: 2010-03-06
