@@ -76,6 +76,15 @@ RedirectMatch 301 /microblogging/twitter/foto-cabecera-en-twitter/ /redes-social
 RedirectMatch 301 /microblogging/twitter/que-es-un-tweet/ /redes-sociales/que-es-un-tweet/
 RedirectMatch 301 /microblogging/que-es-twubs/ /redes-sociales/que-es-twubs/
 RedirectMatch 301 /microblogging/que-es-seesmic/ /redes-sociales/que-es-seesmic/
+RedirectMatch 301 /redes-sociales/recuperar-la-contrasena-en-hi5com/ /redes-sociales/recuperar-la-contrasena-en-hi5/
+RedirectMatch 301 /redes-sociales/que-es-hi5com/ /redes-sociales/que-es-hi5/
+RedirectMatch 301 /redes-sociales/url-personal-en-hi5com/ /redes-sociales/url-personal-en-hi5/
+RedirectMatch 301 /redes-sociales/fondo-de-pantalla-en-hi5com/ /redes-sociales/fondo-de-pantalla-en-hi5/
+RedirectMatch 301 /redes-sociales/darse-de-alta-en-hi5com/ /redes-sociales/darse-de-alta-en-hi5/
+RedirectMatch 301 /redes-sociales/personalizar-el-puntero-o-cursor-en-hi5com/ /redes-sociales/personalizar-el-puntero-o-cursor-en-hi5/
+RedirectMatch 301 /redes-sociales/poner-tu-foto-en-hi5com/ /redes-sociales/poner-tu-foto-en-hi5/
+
+
 
 # Tags
 # RedirectMatch 301 /etiqueta/recuperar/
