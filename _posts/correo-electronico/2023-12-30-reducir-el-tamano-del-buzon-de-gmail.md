@@ -47,7 +47,7 @@ También puedes hacer la búsqueda inversa y buscar los emails posteriores a una
 Así, si quiero eliminar los ficheros anteriores al 1 de junio del 2023 buscaré los siguiente:
 
 
-> 💡 after:2023/06/01
+> 💡 before:2023/06/01
 
 
 ## Vaciar la Carpeta de Spam
