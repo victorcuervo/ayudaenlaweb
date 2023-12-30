@@ -27,6 +27,9 @@ Así, ejemplos de URL serían:
 	[http://www.google.com](http://www.google.com/)
 
 - _**Página concreta**_
+
+	[https://www.ayudaenlaweb.com/2008/11/30/que-es-un-navegador/](https://www.ayudaenlaweb.com/2008/11/30/que-es-un-navegador/)
+
 - _**Imagen**_
 
 	[http://www.altamiraweb.net/images/fotografia.jpg](http://www.altamiraweb.net/images/fotografia.jpg)
