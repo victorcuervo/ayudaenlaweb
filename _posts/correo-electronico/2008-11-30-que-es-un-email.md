@@ -14,13 +14,28 @@ share: true
 author: victor_cuervo
 ---
 
+## ¿Qué es un email?
+
+
+El email, o correo electrónico, es una forma de comunicación digital que permite el envío y recepción de mensajes a través de sistemas de comunicación electrónicos. Su funcionamiento requiere de una conexión a Internet y de una dirección de correo electrónico personal y única.
+
+
+Es importante mencionar que, al igual que el correo tradicional, el email también permite enviar y recibir archivos adjuntos, los cuales pueden incluir documentos, imágenes, y otros tipos de archivos digitales.
+
+
+Para poder enviar un email tienes que tener una dirección de email y conocer la dirección de email de la persona a la cual envías el email.
+
+
+## Símil entre email y correo tradicional
+
+
 Un email o correo electrónico es el servicio que nos permite enviar y recibir mensajes a través de Internet.
 
 
 Para entender su funcionamiento podemos hacer un símil con el sistema de correo tradicional. Si describimos el sistema tradicional tendríamos lo siguiente:
 
 
-_«Yo escribo una carta. Esa carta se la envío a una persona (vía nombre y dirección de su vivienda). Para enviar la carta utilizo el sistema de correos, para ello deposito la carta en un buzón. El cartero es el encargado de recoger la carta y llevarla hasta su destinatario, dejándola en su buzón. Nuestro destinatario recogerá la carta de su buzón y podrá leerla»_.
+> _«Yo escribo una carta. Esa carta se la envío a una persona (vía nombre y dirección de su vivienda). Para enviar la carta utilizo el sistema de correos, para ello deposito la carta en un buzón. El cartero es el encargado de recoger la carta y llevarla hasta su destinatario, dejándola en su buzón. Nuestro destinatario recogerá la carta de su buzón y podrá leerla»_.
 
 
 Veamos que partes lo conforman:
@@ -34,16 +49,16 @@ Veamos que partes lo conforman:
 En el caso del email tendremos los siguientes pasos:
 
 
-_«Escribiremos un email. En él incluiremos el contenido y la dirección de email de destino. Una vez escrito lo enviaremos mediante un programa de email. Este email es recogido y enviado por servidores de correo electrónico. De esta manera será depositado en la bandeja de correo electrónico del destinatario, de la cual podrá recuperarlo y leerlo»_.
+> _«Escribiremos un email. En él incluiremos el contenido y la dirección de email de destino. Una vez escrito lo enviaremos mediante un programa de email. Este email es recogido y enviado por servidores de correo electrónico. De esta manera será depositado en la bandeja de correo electrónico del destinatario, de la cual podrá recuperarlo y leerlo»_.
 
 
 Si vemos la comparativa con las partes del sistema tradicional tenemos lo siguiente:
 
-- Carta = Email
-- Dirección del destinatario = Dirección de email del destinatario
-- Buzón de envío = Programa de envío de emails
-- Sistema de correos = Servidores de correo electrónico
-- Buzón de recepción = Bandeja de correo electrónico
+- Carta ↔ Email
+- Dirección del destinatario ↔ Dirección de email del destinatario
+- Buzón de envío ↔ Programa de envío de emails
+- Sistema de correos ↔ Servidores de correo electrónico
+- Buzón de recepción ↔ Bandeja de correo electrónico
 
 En posteriores artículos iremos desglosando como son cada una de las partes que tenemos que utilizar para poder enviar un email.
 
