@@ -26,14 +26,14 @@ RedirectMatch 301 /categoria/redes-sociales/facebook/ /redes-sociales/
 RedirectMatch 301 /categoria/redes-sociales/ /redes-sociales/
 RedirectMatch 301 /categoria/navegadores/google-chrome/ /navegadores/
 RedirectMatch 301 /categoria/gestores-de-videos/ /gestores-videos/
-# RedirectMatch 301 /categoria/buscadores/google-buscadores/
+RedirectMatch 301 /categoria/buscadores/google-buscadores/ /buscadores/
 RedirectMatch 301 /categoria/correo-electronico/gmail/ /correo-electronico/
 RedirectMatch 301 /categoria/internet-basico/ /internet-basico/
 RedirectMatch 301 /categoria/gestores-de-videos/youtube/ /gestores-videos/
 RedirectMatch 301 /categoria/navegadores/ /navegadores/
 RedirectMatch 301 /categoria/musica/spotify/ /musica/
 RedirectMatch 301 /categoria/microblogging/twitter/ /redes-sociales/
-# RedirectMatch 301 /categoria/buscadores/
+RedirectMatch 301 /categoria/buscadores/ /buscadores/
 RedirectMatch 301 /categoria/general/ /editorial/
 RedirectMatch 301 /categoria/videos/ /gestores-videos/
 RedirectMatch 301 /categoria/mapas/ /mapas/
@@ -48,11 +48,11 @@ RedirectMatch 301 /categoria/fotografia/picasa-web-albums/ /fotografia/
 # RedirectMatch 301 /categoria/calendarios-y-tareas/
 RedirectMatch 301 /categoria/fotografia/ /fotografia/
 RedirectMatch 301 /categoria/navegadores/safari-navegadores/ /navegadores/
-# RedirectMatch 301 /categoria/mensajeria-instantanea/
-# RedirectMatch 301 /categoria/buscadores/bing/
+RedirectMatch 301 /categoria/mensajeria-instantanea/ /mensajeria/
+RedirectMatch 301 /categoria/buscadores/bing/ /buscadores/
 RedirectMatch 301 /categoria/gestores-de-videos/windows-media-player/ /gestores-videos/
 RedirectMatch 301 /categoria/microblogging/twubs/ /redes-sociales/
-# RedirectMatch 301 /categoria/buscadores/yahoo-buscadores/
+RedirectMatch 301 /categoria/buscadores/yahoo-buscadores/ /buscadores/
 RedirectMatch 301 /categoria/fotografia/fotolog/ /fotografia/
 RedirectMatch 301 /categoria/mapas/google-maps-mapas/ /mapas/
 
@@ -83,12 +83,19 @@ RedirectMatch 301 /redes-sociales/fondo-de-pantalla-en-hi5com/ /redes-sociales/f
 RedirectMatch 301 /redes-sociales/darse-de-alta-en-hi5com/ /redes-sociales/darse-de-alta-en-hi5/
 RedirectMatch 301 /redes-sociales/personalizar-el-puntero-o-cursor-en-hi5com/ /redes-sociales/personalizar-el-puntero-o-cursor-en-hi5/
 RedirectMatch 301 /redes-sociales/poner-tu-foto-en-hi5com/ /redes-sociales/poner-tu-foto-en-hi5/
+RedirectMatch 301 /correo-electronico/gmail/que-es-gmail/ /correo-electronico/que-es-gmail/
 
+# /correo-electronico/gmail/cuenta-de-gmail-con-varios-usuarios/
+# /correo-electronico/gmail/utilizar-gmail-como-cliente-de-email-en-firefox/
+# /correo-electronico/enviar-un-email-con-gmail/
+# /correo-electronico/gmail/enviar-un-email-con-gmail/
+# /correo-electronico/gmail/importar-correos-y-contactos-a-gmail/
+# /correo-electronico/gmail/ocultar-etiquetas-en-gmail/
 
 
 # Tags
 # RedirectMatch 301 /etiqueta/recuperar/
-# RedirectMatch 301 /etiqueta/contrasena/
+RedirectMatch 301 /etiqueta/contrasena/ /tags/#contraseña
 # RedirectMatch 301 /etiqueta/nombre-usuario/
 RedirectMatch 301 /etiqueta/email/ /tags/#email
 # RedirectMatch 301 /etiqueta/telefono/
@@ -98,20 +105,20 @@ RedirectMatch 301 /etiqueta/omnibox/ /tags/#omnibox
 RedirectMatch 301 /etiqueta/internet-basico-url/ /tags/#url
 RedirectMatch 301 /etiqueta/url/ /tags/#url
 # RedirectMatch 301 /etiqueta/area-de-trabajo/
-# RedirectMatch 301 /etiqueta/facebook-grupos/
+RedirectMatch 301 /etiqueta/facebook-grupos/ /tags/#facebook
 # RedirectMatch 301 /etiqueta/usuario/
 # RedirectMatch 301 /etiqueta/actualizar/
 # RedirectMatch 301 /etiqueta/barra-de-direcciones/
 # RedirectMatch 301 /etiqueta/google-chrome-formularios/
-# RedirectMatch 301 /etiqueta/facebook-album/
+RedirectMatch 301 /etiqueta/facebook-album/ /tags/#album-fotos
 RedirectMatch 301 /etiqueta/navegador/ /tags/#navegadores
 # RedirectMatch 301 /etiqueta/barra-de-busqueda/
 # RedirectMatch 301 /etiqueta/barra-de-herramientas/
 # RedirectMatch 301 /etiqueta/barra-de-navegacion/
 # RedirectMatch 301 /etiqueta/barra-de-titulo/
 # RedirectMatch 301 /etiqueta/facebook-ubicacion/
-# RedirectMatch 301 /etiqueta/fotografia/ /tags/#fotografias
-# RedirectMatch 301 /etiqueta/videos/
+RedirectMatch 301 /etiqueta/fotografia/ /tags/#fotografias
+RedirectMatch 301 /etiqueta/videos/ /tags/video
 # RedirectMatch 301 /etiqueta/facebook-compartir/
 RedirectMatch 301 /etiqueta/favoritos/ /tags/#favoritos
 # RedirectMatch 301 /etiqueta/marcadores/
