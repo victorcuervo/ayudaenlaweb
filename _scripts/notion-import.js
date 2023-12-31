@@ -19,13 +19,25 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 
 	const databaseId = process.env.DATABASE_ID;
 	// TODO has_more
+	const hoy = moment().format("YYYY-MM-DD")
 	const response = await notion.databases.query({
 		database_id: databaseId,
 		filter: {
-			property: "Estado",
-			status: {
-				equals: "Published"
-			}
+			"and": [
+				{
+					"property": "Estado",
+					"status": {
+						"equals": "Published"
+					}
+				},
+				{
+					"property": "Last Date",
+					"date": {
+						"before": hoy
+					}
+
+				}
+			]			
 		}
 	})
 	for (const r of response.results) {
