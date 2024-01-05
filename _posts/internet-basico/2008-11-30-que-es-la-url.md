@@ -23,9 +23,6 @@ Podríamos decir que la URL es una dirección de Internet. La dirección de Inte
 Así, ejemplos de URL serían:
 
 - _**Página web**_
-
-	[http://www.google.com](http://www.google.com/)
-
 - _**Página concreta**_
 
 	[https://www.ayudaenlaweb.com/2008/11/30/que-es-un-navegador/](https://www.ayudaenlaweb.com/2008/11/30/que-es-un-navegador/)
