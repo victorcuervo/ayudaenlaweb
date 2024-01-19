@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quillbot. La herramienta de parafraseo
-excerpt: 60736ccf-5f5a-4986-b6f7-9754cdd1d347
+excerpt: Quillbot nos ayuda como herramienta parafraseo para generar texto, citas, traducciones y detectar plagios.
 categories: Inteligencia-Artificial
 tags: [quillbot,traductor,extensiones navegador,plagios,sugerencia de texto]
 last_modified_at: 2024-01-18
