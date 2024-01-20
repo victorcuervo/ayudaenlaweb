@@ -33,7 +33,7 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 				{
 					"property": "Last Date",
 					"date": {
-						"before": hoy
+						"on_or_before": hoy
 					}
 
 				}
