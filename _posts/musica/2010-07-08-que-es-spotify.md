@@ -6,8 +6,8 @@ categories: Musica
 tags: [spotify,album canciones,canciones,radio,modelo suscripción]
 last_modified_at: 2024-01-14
 image:
-  path: /images/cover/spotify.webp
-  thumbnail: /images/cover/spotify.webp
+  path: /images/covers/spotify.webp
+  thumbnail: /images/covers/spotify.webp
   caption: Fotografía de [Spotify](https://www.freepik.es/autor/freepik)
 comments: true
 share: true
