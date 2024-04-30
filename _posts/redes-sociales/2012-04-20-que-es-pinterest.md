@@ -38,7 +38,7 @@ En enero del 2012, [comScore, indica que Pinterest ha llegado a los 11,7M de usu
 [Pinterest](http://pinterest.com/) es una red social con mucho gusto, muy femenina. Prueba de ello es que el 80% de los usuarios son mujeres.
 
 
-![](https://www.ayudaenlaweb.com/wp-content/uploads/2012/04/pinterest_board.jpg)
+![¿Qué es Pinterest?](https://ayudaenlaweb.com/images/articulos/pinterest/que-es-pinterest.webp)
 
 
 ### Características detalladas de Pinterest
