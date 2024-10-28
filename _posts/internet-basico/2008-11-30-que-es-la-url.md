@@ -45,9 +45,6 @@ Para ayudarte a entender mejor, aquí te dejamos algunos ejemplos de URL:
 	[http://www.google.com](http://www.google.com/)
 
 - _**Página específica**_
-
-	[https://www.ayudaenlaweb.com/navegadores/que-es-un-navegador/](https://www.ayudaenlaweb.com/navegadores/que-es-un-navegador/)
-
 - _**Imagen**_
 
 	[https://manualweb.net/img/logos/html5.png](https://manualweb.net/img/logos/html5.png)
