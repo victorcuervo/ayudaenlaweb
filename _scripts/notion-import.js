@@ -70,7 +70,8 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 		let excerpt = id
 		let pexcerpt = r.properties?.['Excerpt']?.['rich_text']
 		if (pexcerpt?.length > 0) {
-			excerpt = pexcerpt[0]?.['plain_text'].replace(/<\/?[^>]+(>|$)/g, "")
+			excerpt = pexcerpt[0]?.['plain_text']
+			console.log(excerpt)
 		}
         
 		// tags
