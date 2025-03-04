@@ -70,7 +70,7 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 		let excerpt = id
 		let pexcerpt = r.properties?.['Excerpt']?.['rich_text']
 		if (pexcerpt?.length > 0) {
-			excerpt = pexcerpt.map(text => text?.['plain_text']).join(' ')
+			excerpt = pexcerpt.map(text => text?.['plain_text']).join('')
 		}
         
 		// tags
