@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crear un blog sencillo con Write.as
-excerpt: Crea un blog sencillo con 
+excerpt: Aprende a crear un blog sencillo con 
 categories: Blogs
 tags: [write.as]
 last_modified_at: 2025-03-04
