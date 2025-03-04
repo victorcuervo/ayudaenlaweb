@@ -8,7 +8,7 @@ last_modified_at: 2025-03-04
 image:
   path: /images/covers/simple-write.webp
   thumbnail: /images/covers/simple-write.webp
-  caption: Fotografía de [zaozaa09](https://www.freepik.es/autor/zaozaa09)
+  caption: Fotografía de [jcomp](https://www.freepik.es/autor/jcomp)
 comments: true
 share: true
 author: victor_cuervo
