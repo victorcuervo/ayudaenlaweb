@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reducir el tamaño del buzón de GMail
-excerpt: Alternativas para poder reducir el tamaño del buzón de GMail mediante eliminación de correos antiguos o con adjuntos de gran tamaño.
+excerpt: 56befb1f-a176-4161-90eb-9563c5590165
 categories: Correo-Electronico
 tags: [gmail,buzon correo]
 last_modified_at: 2023-12-30

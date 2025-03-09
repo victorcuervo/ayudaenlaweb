@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Utilizar una foto de Facebook como foto de perfil
-excerpt: Pasos que tenemos que seguir para poder utilizar una foto de Facebook como foto de perfil.
+excerpt: Esta página explica cómo utilizar una foto de Facebook como foto de perfil en simples pasos para personalizar tu cuenta.
 categories: Redes-Sociales
 tags: [facebook,perfil,foto de perfil,fotografias]
 last_modified_at: 2024-09-25

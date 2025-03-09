@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crear un grupo en Facebook
-excerpt: Crear un grupo en Facebook nos permite compartir información con amigos y usuarios de forma pública o privada.
+excerpt: Este artículo explica cómo crear un grupo en Facebook para compartir información con amigos o usuarios sobre temas específicos.
 categories: Redes-Sociales
 tags: [grupos,privacidad,facebook]
 last_modified_at: 2024-09-24

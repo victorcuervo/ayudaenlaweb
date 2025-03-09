@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es Pinterest?
-excerpt: ¿Qué es Pinterest? Pinterest es una red social para compartir fotos, vídeos y enlaces mediante pins.
+excerpt: Pinterest es una red social para compartir fotos, videos y enlaces, donde los usuarios pueden expresar ideas a través de pins y organizarlos en boards.
 categories: Redes-Sociales
 tags: [pinterest,pin]
 last_modified_at: 2024-04-30

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es Last fm?
-excerpt: Last.fm es una red social orientada al mundo musical, la cual se construye alrededor de una radio vía Internet.
+excerpt: Last.fm es una red social musical que utiliza scrobbling para rastrear tus gustos y recomendarte nuevas canciones y artistas basándose en tu actividad.
 categories: Musica
 tags: [lastfm,scrobbling,etiquetas,spotify,itunes,winamp,album canciones]
 last_modified_at: 2024-01-11

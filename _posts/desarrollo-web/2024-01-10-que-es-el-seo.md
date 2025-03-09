@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es el SEO?
-excerpt: SEO (Search Engine Optimization) son un conjunto de técnicas y estrategias que se utilizan para mejorar la visibilidad de una página web
+excerpt: El SEO es un conjunto de técnicas para mejorar la visibilidad de una página web en buscadores y aumentar su tráfico.
 categories: Desarrollo-Web
 tags: [seo,páginas web,buscadores,keywords]
 last_modified_at: 2024-01-10

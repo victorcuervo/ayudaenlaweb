@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quién puede ver nuestras fotos de Facebook
-excerpt: La página explica cómo manejar la privacidad de las fotos en Facebook y quién puede ver nuestras fotos según las configuraciones establecidas.
+excerpt: La página explica cómo establecer la privacidad en Facebook para controlar quién puede ver nuestras fotos y la importancia de esta configuración.
 categories: Redes-Sociales
 tags: [facebook,fotografias]
 last_modified_at: 2025-03-05

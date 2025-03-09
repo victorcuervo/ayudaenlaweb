@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crear una lista colaborativa en Spotify
-excerpt: Explicación de cómo podemos proceder para crear una lista colaborativa en Spotify.
+excerpt: Aprende a crear una lista colaborativa en Spotify para que tus amigos añadan y compartan sus canciones favoritas fácilmente.
 categories: Musica
 tags: [spotify,lista colaborativa,lista reproducción]
 last_modified_at: 2024-01-21

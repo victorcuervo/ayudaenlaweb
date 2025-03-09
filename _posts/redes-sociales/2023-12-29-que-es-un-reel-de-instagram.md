@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es un reel de Instagram?
-excerpt: Un Reel de Instagram es una forma de crear y descubrir contenido breve y entretenido en Instagram. 
+excerpt: Un reel de Instagram es una herramienta para crear videos breves y creativos que permiten a los usuarios compartir contenido y conectar con su audiencia.
 categories: Redes-Sociales
 tags: [redes sociales,instagram,video,efectos,hashtags]
 last_modified_at: 2023-12-29

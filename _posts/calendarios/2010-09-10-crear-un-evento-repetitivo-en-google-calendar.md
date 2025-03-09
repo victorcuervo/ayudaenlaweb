@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crear un evento repetitivo en Google Calendar
-excerpt: Pasos para poder crear un evento repetitivo en Google Calendar para que se repita las veces que necesitemos.
+excerpt: Aprende a crear un evento repetitivo en Google Calendar para gestionar tus citas recurrentes de manera eficiente y no olvidarlas.
 categories: Calendarios
 tags: [google calendar]
 last_modified_at: 2024-01-15

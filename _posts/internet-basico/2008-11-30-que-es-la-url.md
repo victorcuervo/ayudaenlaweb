@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es la URL?
-excerpt: Explicación de qué es la URL o el Unified Resource Locator que insertamos en nuesros navegadores web.
+excerpt: La URL es la dirección única en la web que identifica recursos y permite acceder a información específica como páginas e imágenes.
 categories: Internet-Basico
 tags: [url,www,imagenes,audio,tim berners-lee]
 last_modified_at: 2024-01-10

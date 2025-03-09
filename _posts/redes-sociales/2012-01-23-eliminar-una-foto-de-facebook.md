@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eliminar una foto de Facebook
-excerpt: Para eliminar una foto de Facebook, solo debes acceder a la foto y confirmar su eliminación.
+excerpt: Para eliminar una foto de Facebook, debes ir a la foto, hacer clic en eliminar y confirmar la acción para que se elimine automáticamente.
 categories: Redes-Sociales
 tags: [facebook,fotografias]
 last_modified_at: 2024-09-25

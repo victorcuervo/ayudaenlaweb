@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vídeos musicales con YouTube Music
-excerpt: Si te apasiona la música puedes ver vídeos musicales con YouTube Music que es un servicio de transmisión de música desarrollado por YouTube.
+excerpt: La página presenta vídeos musicales con YouTube Music, un servicio de transmisión que ofrece acceso a canciones y vídeos de artistas populares.
 categories: Musica
 tags: [youtube,youtube music,vídeos]
 last_modified_at: 2024-01-13

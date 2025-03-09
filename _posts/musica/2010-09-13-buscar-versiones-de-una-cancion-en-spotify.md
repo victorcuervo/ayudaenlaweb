@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buscar versiones de una canción en Spotify
-excerpt: Una de las funciones más interesantes que nos ofrece Spotify es la de poder buscar versiones de una canción.
+excerpt: En Spotify puedes buscar versiones de una canción utilizando el título de la misma en el cuadro de búsqueda para descubrir reinterpretaciones.
 categories: Musica
 tags: [spotify,canciones]
 last_modified_at: 2024-01-22

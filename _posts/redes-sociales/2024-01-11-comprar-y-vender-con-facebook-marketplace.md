@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comprar y vender con Facebook Marketplace
-excerpt: Cómo podemos comprar y vender con Facebook Marketplace. Conocer un poco más en que consiste esta funcionalidad de Facebook.
+excerpt: Facebook Marketplace es una plataforma de Facebook para comprar y vender artículos en comunidades locales de manera segura y cómoda.
 categories: Redes-Sociales
 tags: [facebook,facebook marketplace,vender]
 last_modified_at: 2024-01-11

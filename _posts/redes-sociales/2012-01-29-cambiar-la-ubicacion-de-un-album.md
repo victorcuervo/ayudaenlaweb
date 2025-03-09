@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cambiar la ubicación de un álbum
-excerpt: Cambiar la ubicación de un álbum en Facebook requiere editar propiedades y guardar cambios.
+excerpt: db066540-08cc-47f6-95f7-76e6d806b5ea
 categories: Redes-Sociales
 tags: [facebook,album fotos]
 last_modified_at: 2025-03-03

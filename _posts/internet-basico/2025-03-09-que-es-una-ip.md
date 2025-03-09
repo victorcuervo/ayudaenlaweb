@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es una IP?
-excerpt: Una IP es un identificador único para dispositivos en Internet y se clasifica en pública y privada, además de ser estática o dinámica.
+excerpt: 1aca9dfb-adca-8030-b4a5-c8cc6f2d80c0
 categories: Internet-Basico
 tags: [ip]
 last_modified_at: 2025-03-09

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es Spotify?
-excerpt: Spotify es un software innovador que nos da la posibilidad de escuchar un amplio rango de música.
+excerpt: Spotify es un software que permite escuchar música a través de Internet de forma gratuita o mediante suscripción con diversas funciones y planes.
 categories: Musica
 tags: [spotify,album canciones,canciones,radio,modelo suscripción]
 last_modified_at: 2024-01-14

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es un Email?
-excerpt: El Email o Correo Electrónico es un servicio por el cual podemos enviar y recibir mensajes por Internet de forma asíncrona.
+excerpt: El email es una forma de comunicación digital que permite enviar y recibir mensajes y archivos a través de Internet usando direcciones únicas.
 categories: Correo-Electronico
 tags: [email]
 last_modified_at: 2024-01-12

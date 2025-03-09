@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Insertar imágenes en Gmail con drag and drop
-excerpt: Pasos y opciones que tenemos para poder insertar imágenes en GMail con drag &drop.
+excerpt: Inserta imágenes en Gmail con drag and drop arrastrando la imagen al correo y ajustando su tamaño antes de enviar el mensaje.
 categories: Correo-Electronico
 tags: [gmail,drag&drop,imagenes]
 last_modified_at: 2024-01-10

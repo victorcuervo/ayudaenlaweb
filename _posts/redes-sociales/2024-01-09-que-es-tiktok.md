@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es TikTok?
-excerpt: ¿Qué es TikTok? TikTok es una red social innovadora que permite a los usuarios crear, compartir y ver una amplia variedad de videos cortos.
+excerpt: TikTok es una red social para crear y compartir videos cortos, que ha ganado popularidad mundial y permite la interacción entre usuarios.
 categories: Redes-Sociales
 tags: [tiktok,me gusta,vídeos,videoselfies]
 last_modified_at: 2024-01-09

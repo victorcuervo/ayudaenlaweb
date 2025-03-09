@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es Instagram?
-excerpt: Instagram es una red social así como una aplicación de fotografía y vídeo que permite a los usuarios capturar, editar y compartir imágenes y vídeos desde sus dispositivos móviles
+excerpt: Instagram es una red social que permite a los usuarios capturar, editar y compartir imágenes y vídeos, facilitando la comunicación y el networking.
 categories: Redes-Sociales
 tags: [instagram,facebook,hashtag,filtros,etiquetas,feeds,redes sociales]
 last_modified_at: 2023-12-26

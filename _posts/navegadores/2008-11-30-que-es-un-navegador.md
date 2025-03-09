@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es un navegador?
-excerpt: Para saber qué es un navegador web debemos conocer que es un software que nos permite visualizar y navegar por las páginas web.
+excerpt: Un navegador es una herramienta clave para acceder a Internet, permitiendo visualizar páginas web y navegar entre diversos contenidos en la red.
 categories: Navegadores
 tags: [browser,páginas web,pestañas,buscadores,chrome,safari,opera,explorer,edge,firefox]
 last_modified_at: 2024-01-11

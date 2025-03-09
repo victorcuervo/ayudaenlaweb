@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crear un blog sencillo con Write.as
-excerpt: Aprende a crear un blog sencillo con Write.as, una plataforma minimalista que facilita la escritura y publicación sin distracciones.
+excerpt: Crea un blog sencillo con Write.as de forma rápida y fácil, enfocándote en el contenido y disfrutando de una experiencia sin distracciones.
 categories: Blogs
 tags: [write.as]
 last_modified_at: 2025-03-04

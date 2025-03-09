@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es Internet Explorer?
-excerpt: Internet Explorer fue el navegador web de Microsoft desde 1995 hasta 2020. Llegó a tener el 95% cuota del mercado de navegadores.
+excerpt: Internet Explorer fue un navegador de Microsoft que alcanzó gran popularidad, pero su soporte finalizó en 2021 debido a la competencia y obsolescencia.
 categories: Navegadores
 tags: [internet explorer,html,css,xml,microsoft,buscadores,pestañas]
 last_modified_at: 2024-01-12

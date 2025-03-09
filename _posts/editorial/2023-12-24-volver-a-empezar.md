@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Volver a Empezar
-excerpt: La Inteligencia Artificial va a permitir impactar en las aplicaciones actuales y propiciar la creación de muchas nuevas. Así que es el momento de volver a empezar…
+excerpt: Este artículo reflexiona sobre el regreso a la web y la importancia de volver a empezar en medio de la evolución constante de Internet y la inteligencia artificial.
 categories: Editorial
 tags: [fotografias,redes sociales,inteligencia artificial,youtube,navegadores]
 last_modified_at: 2023-12-24

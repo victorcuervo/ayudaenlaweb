@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vídeos cortos con YouTube Shorts
-excerpt: Los YouTube Shorts son vídeos de corta duración que los usuarios pueden crear y compartir en la plataforma de YouTube.
+excerpt: Los YouTube Shorts son vídeos cortos de hasta 60 segundos que permiten a los usuarios crear y compartir contenido atractivo en la plataforma.
 categories: Gestores-Videos
 tags: [youtube,youtube shorts,vídeos cortos]
 last_modified_at: 2024-01-12

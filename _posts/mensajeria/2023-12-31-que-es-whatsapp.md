@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es WhatsApp?
-excerpt: WhatsApp es una de las aplicaciones de mensajería más utilizadas en el mundo. A diario, millones de personas la utilizan para comunicarse.
+excerpt: WhatsApp es una popular aplicación de mensajería que permite enviar mensajes, hacer llamadas y compartir archivos de manera gratuita a través de internet.
 categories: Mensajeria
 tags: [whatsapp,whatsapp web,sticker,emoji,apple store,google play]
 last_modified_at: 2023-12-31

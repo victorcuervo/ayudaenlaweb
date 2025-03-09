@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subir fotos a Fotolog
-excerpt: Pasos que tenemos que dara para poder subir fotos a Fotolog.
+excerpt: Esta página explica cómo subir fotos a Fotolog, incluyendo el proceso para cargar imágenes y modificar títulos y leyendas.
 categories: Fotografia
 tags: [fotografias,fotolog]
 last_modified_at: 2024-01-23

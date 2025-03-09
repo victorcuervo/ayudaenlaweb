@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Activar Safari Reader
-excerpt: Pasos para poder activar Safari Reader y así poder disponer de una lectura cómo de los documentos de la web.
+excerpt: Safari Reader es una función de Safari que simplifica la lectura al eliminar distracciones y centrarse en el contenido principal de la página.
 categories: Navegadores
 tags: [safari,safari reader]
 last_modified_at: 2024-01-16

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enviar un email con Gmail
-excerpt: Cómo podemos enviar un email con GMail explicado en tres sencillos pasos.
+excerpt: Enviar un email con Gmail es sencillo y requiere crear un mensaje, rellenar los campos necesarios y finalmente enviarlo tras revisar errores.
 categories: Correo-Electronico
 tags: [gmail,email]
 last_modified_at: 2024-01-11

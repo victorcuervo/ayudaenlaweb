@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué son los Hashtags?
-excerpt: Los hashtags son una herramienta esencial que se utiliza en las redes sociales para agrupar publicaciones con un tema o contenido específico
+excerpt: ab3b5c74-563d-415b-91f1-e1f320dc666c
 categories: Internet-Basico
 tags: [redes sociales,hashtags,marketingdigital]
 last_modified_at: 2023-12-27

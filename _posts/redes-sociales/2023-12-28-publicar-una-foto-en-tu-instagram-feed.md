@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publicar una foto en tu Instagram Feed
-excerpt: El Instagram Feed es la página principal de Instagram donde puedes ver las fotos y videos que las personas a las que sigues han compartido
+excerpt: Esta guía explica cómo publicar una foto en tu Instagram Feed y detalla los pasos necesarios para compartir contenido en esta red social.
 categories: Redes-Sociales
 tags: [feed,instagram,fotografias]
 last_modified_at: 2023-12-28
