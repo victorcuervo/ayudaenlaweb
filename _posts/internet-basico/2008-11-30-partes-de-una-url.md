@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Partes de una URL
-excerpt: c5c9be87-90ae-46c5-a094-606047d2fded
+excerpt: Este artículo explica las partes de una URL, incluyendo protocolo, servidor, puerto, directorio y página, para entender su estructura.
 categories: Internet-Basico
 tags: [protocolo,servidor,puerto,url,dominio,subdominio,directorio]
 last_modified_at: 2024-01-10

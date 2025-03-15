@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es un emoji?
-excerpt: b16f7037-9914-48bb-9230-ed3caafcc646
+excerpt: Un emoji es una pequeña imagen digital que expresa ideas o emociones en la comunicación en línea, reflejando diversidad y cultura.
 categories: Internet-Basico
 tags: [emoji,imagenes]
 last_modified_at: 2024-01-20

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es Notion?
-excerpt: e9a25b64-7c6d-48e8-9d32-2200aba6e3cb
+excerpt: Notion es una herramienta integral de productividad que funciona como un segundo cerebro digital para gestionar proyectos, tomar notas y organizar información desde cualquier dispositivo y lugar.
 categories: Productividad
 tags: [notion,inteligencia artificial,plantillas,calendarios,bases de datos]
 last_modified_at: 2024-09-24

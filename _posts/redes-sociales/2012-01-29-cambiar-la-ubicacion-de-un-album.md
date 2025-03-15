@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cambiar la ubicación de un álbum
-excerpt: db066540-08cc-47f6-95f7-76e6d806b5ea
+excerpt: La función de ubicación en Facebook es una herramienta útil para organizar y recordar dónde se tomaron nuestras fotos, ayudando a que amigos y seguidores entiendan mejor el contexto de nuestros recuerdos.
 categories: Redes-Sociales
 tags: [facebook,album fotos]
 last_modified_at: 2025-03-03

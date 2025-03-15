@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué son los Hashtags?
-excerpt: ab3b5c74-563d-415b-91f1-e1f320dc666c
+excerpt: Guía sobre los hashtags que explica su uso en redes sociales para aumentar la visibilidad de publicaciones y alcanzar a la audiencia ideal.
 categories: Internet-Basico
 tags: [redes sociales,hashtags,marketingdigital]
 last_modified_at: 2023-12-27
