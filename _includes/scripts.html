@@ -34,4 +34,23 @@
 
 <!-- Google Ads -->
 <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1617825704006857" crossorigin="anonymous"></script>
+<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1617825704006857" crossorigin="anonymous"></script> -->
+<script>
+  let adsLoaded = false; // Evita cargar varias veces
+
+  function loadAdsense() {
+    if (adsLoaded) return;
+    adsLoaded = true;
+
+    let script = document.createElement("script");
+    script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+    script.setAttribute("data-ad-client", "ca-pub-1617825704006857"); // Reemplaza con tu ID
+    script.async = true;
+    document.body.appendChild(script);
+  }
+
+  // Escucha la primera interacción del usuario
+  document.addEventListener("mousemove", loadAdsense, { once: true });
+  document.addEventListener("scroll", loadAdsense, { once: true });
+  document.addEventListener("touchstart", loadAdsense, { once: true });
+</script>
