@@ -21,8 +21,8 @@ Internet es un ecosistema en el que cada día aparecen nuevas aplicaciones. La c
 <article class="editorial">
   <header class="editorial-header">
     <a href="{{ editorial.url }}">
-      <img src="{{ editorial.image.path }}" class="img-fluid" loading="lazy" width="1000" height="300">
-      <h2>{{ editorial.title }} </h2>
+      <img src="{{ editorial.image.path }}" class="img-fluid" loading="lazy" width="1000" height="300" alt="{{ editorial.title }}">
+      <h2>{{ editorial.title }}</h2>
     </a>
   </header>
   <div class="editorial-author"><i>{{ site.data.authors[editorial.author].name }}</i></div>
