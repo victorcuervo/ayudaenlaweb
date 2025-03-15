@@ -12,13 +12,11 @@ layout: page
 {%- endif -%}
 <img src="{{ author_picture }}" class="author-avatar u-photo align-left" alt="{{ author.name }}">
 {%- endif -%}
-
-
 <p>
   {{ author.bio }}
 </p>
-
 {%- if author.links -%}
+
 <ul class="author-links">
   {%- for link in author.links -%}
     {%- if link.url contains "://" -%}
@@ -27,7 +25,7 @@ layout: page
       {%- assign url = link.url | relative_url -%}
     {%- endif -%}
     <li class="author-link">
-      <a class="u-url" rel="me" href="{{ url }}"><i class="{{ link.icon | default : 'fas fa-link' }} fa-lg" title="{{ link.title }}"></i></a>
+      <a class="u-url" rel="me" href="{{ url }}"><svg title="{{ link.title }}" xmlns="http://www.w3.org/2000/svg" height="24" width="23.25" viewBox="0 0 496 512"><path d="{{ link.icon }}"/></svg></a>
     </li>
   {%- endfor -%}
 </ul>
