@@ -4,7 +4,7 @@ entries_layout: grid
 title: Víctor Cuervo
 author: victor_cuervo
 permalink: /autor/victor-cuervo/
-excerpt: "Artículos sobre tecnología de Víctor Cuervo en Ayunda en la Web."
+excerpt: "Artículos para empezar a aprender en el mundo de la tecnología de Víctor Cuervo para Ayuda en la Web."
 image:
   path: /images/portada.webp
   thumbnail: /images/authors/victor.png
