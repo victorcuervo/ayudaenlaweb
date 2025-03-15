@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Buscar un álbum en Spotify
-excerpt: Cómo podemos hacer para poder buscar un álbum en Spotify de una forma sencilla.
+excerpt: Aprende a buscar un álbum en Spotify usando una estructura de búsqueda específica para obtener resultados más precisos y relevantes.
 categories: Musica
 tags: [spotify,album canciones]
-last_modified_at: 2024-01-23
+last_modified_at: 2025-03-15
 image:
   path: /images/covers/spotify.webp
   thumbnail: /images/covers/spotify.webp
