@@ -6,8 +6,8 @@ categories: Navegadores
 tags: [navegadores,internet explorer,chrome,safari,firefox,opera]
 last_modified_at: 2025-03-15
 image:
-  path: /images/cover/clasificacion.webp
-  thumbnail: /images/cover/clasificacion.webp
+  path: /images/covers/clasificación.webp
+  thumbnail: /images/covers/clasificación.webp
   caption: Fotografía de [Freepik](https://www.freepik.es/autor/freepik)
 comments: true
 share: true
