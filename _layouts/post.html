@@ -22,8 +22,8 @@ layout: default
       </div>
 
       <div class="page-content">
-        <div class="e-content">
-          {{ content }}
+        <div class="e-content">            
+            {{ content | replace: '<img ', '<img loading="lazy" ' }}
         </div>
 
         {% if page.share %}
