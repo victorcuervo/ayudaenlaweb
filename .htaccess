@@ -84,6 +84,9 @@ RedirectMatch 301 /redes-sociales/darse-de-alta-en-hi5com/ /redes-sociales/darse
 RedirectMatch 301 /redes-sociales/personalizar-el-puntero-o-cursor-en-hi5com/ /redes-sociales/personalizar-el-puntero-o-cursor-en-hi5/
 RedirectMatch 301 /redes-sociales/poner-tu-foto-en-hi5com/ /redes-sociales/poner-tu-foto-en-hi5/
 RedirectMatch 301 /correo-electronico/gmail/que-es-gmail/ /correo-electronico/que-es-gmail/
+RedirectMatch 301 /microblogging/enviar-un-mensaje-a-un-usuario-de-twitter/ /redes-sociales/enviar-un-mensaje-a-un-usuario-de-twitter/
+RedirectMatch 301 /microblogging/que-es-un-tweet/ /redes-sociales/que-es-un-tweet/
+
 
 # /correo-electronico/gmail/cuenta-de-gmail-con-varios-usuarios/
 # /correo-electronico/gmail/utilizar-gmail-como-cliente-de-email-en-firefox/
