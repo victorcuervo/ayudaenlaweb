@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brave, navegar con privacidad y rendimiento
-excerpt: Brave es un navegador web que protege la privacidad del usuario bloqueando rastreadores y anuncios invasivos mientras optimiza el rendimiento de carga y ofrece búsquedas privadas y servicios VPN.
+excerpt: Brave es un navegador web que protege la privacidad del usuario bloqueando rastreadores y que optimiza el rendimiento de carga.
 categories: Navegadores
 tags: [brave,vpn]
 last_modified_at: 2025-03-22
