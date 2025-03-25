@@ -13,9 +13,14 @@ ErrorDocument 404 /404.html
 RewriteEngine On
 ErrorDocument 404 /404.html
 
-# Quitar el www del nombre de dominio  
-RewriteCond %{HTTP_HOST} ^www\.arquitectoit\.com$ [NC]  
-RewriteRule ^(.*)$ https://arquitectoit.com/$1 [R=301,QSA,L]
+# Meter el www del nombre de dominio  
+# Redirigir HTTP a HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+# Redirigir sin www a www
+RewriteCond %{HTTP_HOST} ^ayudaenlaweb\.com$ [NC]
+RewriteRule ^(.*)$ https://www.ayudaenlaweb.com/$1 [R=301,L]
 
 
 <IfModule mod_rewrite.c>
