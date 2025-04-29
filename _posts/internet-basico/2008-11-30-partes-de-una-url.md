@@ -96,6 +96,9 @@ Vamos a destripar un par de URL:
 
 - **Protocolo:** http
 - **Servidor:** ayudaenlaweb.blogspot.com
+	- **Nombre del servidor:** blogspot
+	- **Dominio de nivel superior:** .com
+	- **Subdominio:** ayudaenlaweb
 - **Puerto:** 80
 - **Directorio:** /2007/09/
 - **Página:** /partes-de-un-email.html
