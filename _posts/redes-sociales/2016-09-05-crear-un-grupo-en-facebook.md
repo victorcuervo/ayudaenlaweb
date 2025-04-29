@@ -75,6 +75,8 @@ En este formulario deberemos de:
 - **Nombre del Grupo:** Es importante indicar cómo deseamos que se llame el grupo. Este será el distintivo que identificará a nuestra comunidad en la plataforma.
 - **Añadir usuarios al grupo:** En la etapa inicial, sólo podremos añadir usuarios que sean nuestros amigos. Sin embargo, una vez que se configura el grupo como público, se permitirá la incorporación de cualquier usuario, ampliando de esta manera la participación y la diversidad dentro del grupo.
 - **Marcar la privacidad del grupo**: Aquí es donde se establece el tipo de acceso que tendrán los demás usuarios a nuestro grupo. Los tipos de privacidad son los siguientes:
+	- _**Público**_, en este caso, todo el mundo, sean miembros o no, podrá acceder a las publicaciones del grupo, haciendo de nuestro grupo un espacio abierto a la comunidad general de Facebook.
+	- _**Privado**_, en este escenario, únicamente los miembros pueden conocer el grupo y ver sus publicaciones. Este tipo de grupos no aparecerán en la búsqueda de grupos, proporcionando un nivel adicional de privacidad y exclusividad a sus miembros.
 
 Además, [Facebook](https://www.ayudaenlaweb.com/redes-sociales/que-es-facebook/) te ofrece la opción de ver una previsualización de cómo quedará la portada del Grupo, permitiéndote así hacer cualquier ajuste necesario antes de publicarla oficialmente.
 
