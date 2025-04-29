@@ -107,9 +107,6 @@ Vamos a destripar un par de URL:
 
 - **Protocolo:** ftp
 - **Servidor:** ftp.servidorpruebas.org
-	- **Nombre del servidor:** servidorpruebas
-	- **Dominio de nivel superior:** .org
-	- **Subdominio:** ftp
 - **Puerto:** No aplica
 - **Directorio:** /ficheros/imagenes/
 - **Página:** No Aplica
