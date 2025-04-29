@@ -31,7 +31,7 @@ Existen varias fuentes en Internet que nos proporcionan datos de los [navegadore
 | [Safari](https://www.ayudaenlaweb.com/navegadores/que-es-safari/)                       | 6,08%       | 4,97%           | 6,3%       |
 | [Opera](https://www.ayudaenlaweb.com/navegadores/que-es-opera/)                         | 1,98%       | 1,66%           | 2,6%       |
 
-undefined
+
 ### Navegadores Web más utilizados en 2011
 
 
