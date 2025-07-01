@@ -33,6 +33,8 @@ Dentro del ámbito de la privacidad de [Facebook](https://www.ayudaenlaweb.com/r
 
 - **Público**, la foto la puede ver cualquier persona dentro de [Facebook](https://www.ayudaenlaweb.com/redes-sociales/que-es-facebook/), lo que significa que estará accesible para todos los usuarios de la plataforma, incluso aquellos que no son nuestros amigos o contactos directos.
 - **Amigos**, solo la podrán ver nuestros amigos de [Facebook](https://www.ayudaenlaweb.com/redes-sociales/que-es-facebook/), es decir, aquellas personas con las que hemos establecido una conexión de amistad en la red social. Dentro de esta opción podemos matrizar con más detalle:
+	- **Amigos de personas etiquetadas**, lo que permite que los amigos de las personas que hemos etiquetado en la foto también puedan verla, ampliando así el círculo de visualización.
+	- **Personas etiquetadas**, opción que restringe la visibilidad únicamente a aquellas personas que hemos etiquetado directamente en la fotografía.
 - **Amigos Excepto**, esta configuración nos permite mostrar la foto a todos nuestros amigos de [Facebook](https://www.ayudaenlaweb.com/redes-sociales/que-es-facebook/) excepto a determinadas personas que seleccionemos específicamente, ideal para ocasiones en las que queremos excluir a ciertos contactos.
 - **Solo Yo**, la foto solo está visible para uno mismo, siendo esta la opción más restrictiva de todas y perfecta cuando queremos mantener ciertas imágenes completamente privadas.
 - **Amigos Concretos**, nos permite seleccionar manualmente qué amigos específicos pueden ver la fotografía, ofreciendo un control muy preciso sobre quién tiene acceso a nuestro contenido.
