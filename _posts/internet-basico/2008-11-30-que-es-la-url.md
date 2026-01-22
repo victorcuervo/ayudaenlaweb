@@ -41,9 +41,6 @@ La dirección de Internet, o URL, representa a un recurso específico. Más a me
 Para ayudarte a entender mejor, aquí te dejamos algunos ejemplos de URL:
 
 - _**Página web**_
-
-	[http://www.google.com](http://www.google.com/)
-
 - _**Página específica**_
 
 	[https://www.ayudaenlaweb.com/navegadores/que-es-un-navegador/](https://www.ayudaenlaweb.com/navegadores/que-es-un-navegador/)
